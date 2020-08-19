@@ -1,1 +1,3789 @@
-{"name":"nanshan","schema":[{"id":65255027,"type":"way","tags":{"building:levels":"42","building:part":"commercial"},"centroid":{"lat":"22.5434265","lon":"114.0403894"},"bounds":{"e":"114.0407203","n":"22.5436940","s":"22.5432699","w":"114.0400301"}},{"id":146862823,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"111","addr:postcode":"518048","addr:province":"广东省","addr:street":"福华三路","building":"public","building:levels":"3","building:material":"glass","height":"35","name":"深圳会展中心","name:en":"Shenzhen Convention & Exhibition Center","name:zh":"深圳会展中心","name:zh-Hans":"深圳会展中心","name:zh-Hant":"深圳會展中心","roof:colour":"#fefcf2","roof:material":"metal","roof:orientation":"along","roof:shape":"saltbox","wikidata":"Q16926203","wikipedia":"zh:深圳會展中心"},"centroid":{"lat":"22.5340292","lon":"114.0547345","type":"entrance"},"bounds":{"e":"114.0574217","n":"22.5348725","s":"22.5321711","w":"114.0520723"}},{"id":146864424,"type":"way","tags":{"building":"commercial","building:colour":"#585b61","building:levels":"10","building:material":"glass","building:min_level":"6","height":"64","layer":"1","min_height":"36"},"centroid":{"lat":"22.5442991","lon":"114.0488311"},"bounds":{"e":"114.0496400","n":"22.5447696","s":"22.5438287","w":"114.0480222"}},{"id":146867408,"type":"way","tags":{"building":"yes","building:levels":"2","building:min_level":"1","layer":"1"},"centroid":{"lat":"22.5493695","lon":"114.0520019"},"bounds":{"e":"114.0520990","n":"22.5495053","s":"22.5492339","w":"114.0519527"}},{"id":160902163,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"1006号","addr:postcode":"518038","addr:province":"广东省","addr:street":"福中三路","building":"commercial","building:levels":"38","building:material":"mirror","height":"193.2","name":"诺德中心"},"centroid":{"lat":"22.5459670","lon":"114.0585409"},"bounds":{"e":"114.0587753","n":"22.5461744","s":"22.5457595","w":"114.0583066"}},{"id":183019557,"type":"way","tags":{"building:levels":"3","building:material":"concrete","building:part":"yes","height":"10","roof:colour":"#cdc3b7"},"centroid":{"lat":"22.5484807","lon":"114.0544870"},"bounds":{"e":"114.0551001","n":"22.5492450","s":"22.5476897","w":"114.0539118"}},{"id":183019558,"type":"way","tags":{"building:levels":"3","building:material":"glass","building:min_level":"1","building:part":"yes","height":"10","layer":"1","min_height":"4.2","roof:colour":"#cdc3b7"},"centroid":{"lat":"22.5494154","lon":"114.0544652"},"bounds":{"e":"114.0547592","n":"22.5495947","s":"22.5492361","w":"114.0541712"}},{"id":183019559,"type":"way","tags":{"building:levels":"3","building:material":"concrete","building:part":"yes","height":"10","roof:colour":"#cdc3b7"},"centroid":{"lat":"22.5502452","lon":"114.0544489"},"bounds":{"e":"114.0549404","n":"22.5509062","s":"22.5495843","w":"114.0539726"}},{"id":193921211,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"118号","addr:postcode":"518048","addr:province":"广东 省","addr:street":"福华三路","building":"yes","building:levels":"3","name":"皇庭广场","name:en":"Wongtee Plaza","name:zh":"皇庭广场","opening_hours":"Su-Th 10:00-22:00; Fr-Sa 10:00-22:30","shop":"mall","website":"http://www.wongteeplaza.com"},"centroid":{"lat":"22.5357546","lon":"114.0546887","type":"entrance"},"bounds":{"e":"114.0554637","n":"22.5371670","s":"22.5356130","w":"114.0538966"}},{"id":193921212,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"3号","addr:postcode":"518048","addr:province":"广东省","addr:street":"福华一路","building":"yes","building:levels":"3","name":"怡景中心城","name:en":"Yijing Central City","name:zh":"怡景中心城","shop":"mall"},"centroid":{"lat":"22.5377508","lon":"114.0546643","type":"entrance"},"bounds":{"e":"114.0554121","n":"22.5393716","s":"22.5377415","w":"114.0538470"}},{"id":193921213,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"1号","addr:postcode":"518048","addr:province":"广东省","addr:street":"福华一路","building":"commercial","building:colour":"#0f1a1c","building:levels":"8","name":"大中华国际交易广场","name:en":"Great China International Exchange Square","name:zh":"大中华国际交易广场"},"centroid":{"lat":"22.5386971","lon":"114.0568956"},"bounds":{"e":"114.0576067","n":"22.5392775","s":"22.5380942","w":"114.0562587"}},{"id":237818416,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"138号","addr:postcode":"518048","addr:province":"广东 省","addr:street":"福华三路","brand":"Four Seasons","brand:wikidata":"Q1424786","brand:wikipedia":"en:Four Seasons Hotels and Resorts","brand:zh":"四季酒店","building":"yes","building:levels":"25","building:material":"mirror","internet_access":"yes","name":"深圳四季酒店","name:en":"Four Seasons Hotel Shenzhen","name:zh":"深圳四季酒店","rooms":"266","stars":"5","tourism":"hotel"},"centroid":{"lat":"22.5359702","lon":"114.0528448"},"bounds":{"e":"114.0530079","n":"22.5362778","s":"22.5356620","w":"114.0527096"}},{"id":237818419,"type":"way","tags":{"building":"commercial","building:levels":"25","building:material":"mirror"},"centroid":{"lat":"22.5369618","lon":"114.0529528"},"bounds":{"e":"114.0532090","n":"22.5371364","s":"22.5367876","w":"114.0526966"}},{"id":237818420,"type":"way","tags":{"building":"hotel","building:levels":"40","building:material":"mirror","height":"191","layer":"2"},"centroid":{"lat":"22.5390403","lon":"114.0518186"},"bounds":{"e":"114.0520289","n":"22.5392346","s":"22.5388512","w":"114.0516140"}},{"id":237818421,"type":"way","tags":{"building:levels":"58","building:material":"mirror","building:part":"yes","height":"216"},"centroid":{"lat":"22.5358406","lon":"114.0518828"},"bounds":{"e":"114.0521000","n":"22.5360423","s":"22.5356388","w":"114.0516657"}},{"id":237818422,"type":"way","tags":{"building:levels":"52","building:material":"mirror","building:part":"commercial","height":"218"},"centroid":{"lat":"22.5369614","lon":"114.0518498"},"bounds":{"e":"114.0520527","n":"22.5371376","s":"22.5367853","w":"114.0516470"}},{"id":237818424,"type":"way","tags":{"building":"commercial","building:levels":"42","building:material":"mirror","height":"200"},"centroid":{"lat":"22.5379597","lon":"114.0518413"},"bounds":{"e":"114.0520467","n":"22.5381767","s":"22.5377426","w":"114.0516359"}},{"id":238825588,"type":"way","tags":{"building":"retail","building:levels":"5","opening_hours":"10:00-22:00"},"centroid":{"lat":"22.5357970","lon":"114.0497303","type":"entrance"},"bounds":{"e":"114.0497617","n":"22.5371403","s":"22.5354874","w":"114.0479889"}},{"id":241116474,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"5055号","addr:postcode":"518048","addr:province":"广东省","addr:street":"益田路","building":"commercial","building:levels":"8","building:material":"mirror","name":"信息枢纽大厦"},"centroid":{"lat":"22.5380610","lon":"114.0505184"},"bounds":{"e":"114.0508864","n":"22.5383051","s":"22.5377464","w":"114.0496990"}},{"id":241491633,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"168号","addr:postcode":"518048","addr:province":"广东 省","addr:street":"福华三路","building":"commercial","building:levels":"4","building:material":"mirror","name":"荣超国际商会中心","name:en":"Shenzhen International Chamber of Commerce","name:zh":"荣超国际商会中心"},"centroid":{"lat":"22.5359390","lon":"114.0520409"},"bounds":{"e":"114.0525245","n":"22.5362285","s":"22.5356388","w":"114.0516630"}},{"id":241492958,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"8号","addr:postcode":"518048","addr:province":"广东省","addr:street":"中心三路","alt_name":"卓越时代广场二期","alt_name:en":"Times Square Excellence II","alt_name:zh":"卓越时代广场二期","building":"commercial","building:levels":"4","building:material":"mirror","name":"中信证券大厦","name:en":"CITIC Securities Building","name:zh":"中信证券大厦"},"centroid":{"lat":"22.5364191","lon":"114.0532148","type":"entrance"},"bounds":{"e":"114.0532263","n":"22.5371364","s":"22.5356620","w":"114.0526966"}},{"id":241492962,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"4068号","addr:postcode":"518048","addr:province":"广东省","addr:street":"益田路","building":"commercial","building:levels":"4","name":"卓越时代广场一期","name:en":"Times Square Excellence I","name:zh":"卓越时代 广场一期"},"centroid":{"lat":"22.5368439","lon":"114.0520120"},"bounds":{"e":"114.0524934","n":"22.5371418","s":"22.5364832","w":"114.0516470"}},{"id":245978165,"type":"way","tags":{"building":"retail","building:levels":"4","building:material":"glass"},"centroid":{"lat":"22.5416984","lon":"114.0645314"},"bounds":{"e":"114.0665209","n":"22.5420058","s":"22.5410326","w":"114.0633020"}},{"id":246255723,"type":"way","tags":{"building":"hotel","building:levels":"10","name":"A座","name:en":"Building A","name:zh":"A座","official_name":"五洲宾馆A座"},"centroid":{"lat":"22.5404273","lon":"114.0421364","type":"entrance"},"bounds":{"e":"114.0430638","n":"22.5410721","s":"22.5396305","w":"114.0417225"}},{"id":246255724,"type":"way","tags":{"building":"hotel","building:levels":"10","layer":"1","name":"B座","name:en":"Building B","name:zh":"B座","official_name":"五洲宾馆B座"},"centroid":{"lat":"22.5396360","lon":"114.0431661"},"bounds":{"e":"114.0435720","n":"22.5399325","s":"22.5390078","w":"114.0430299"}},{"id":269895563,"type":"way","tags":{"building:levels":"52","building:material":"mirror","building:part":"yes","height":"206"},"centroid":{"lat":"22.5468513","lon":"114.0584911"},"bounds":{"e":"114.0587254","n":"22.5470521","s":"22.5466505","w":"114.0582567"}},{"id":269895565,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"6003号","addr:province":"广东省","addr:street":"益田路","building":"commercial","building:levels":"46","height":"193","name":"荣超中心A座"},"centroid":{"lat":"22.5458518","lon":"114.0503056"},"bounds":{"e":"114.0505057","n":"22.5460095","s":"22.5456163","w":"114.0500636"}},{"id":269895573,"type":"way","tags":{"building":"commercial","building:levels":"48","height":"228","name":"太平金融大厦","name:en":"Taiping Finance Building","name:zh":"太平金融大厦"},"centroid":{"lat":"22.5448490","lon":"114.0504327"},"bounds":{"e":"114.0506980","n":"22.5450896","s":"22.5446084","w":"114.0501674"}},{"id":269937917,"type":"way","tags":{"building:levels":"33","building:material":"mirror","building:part":"yes"},"centroid":{"lat":"22.5406496","lon":"114.0487301"},"bounds":{"e":"114.0489279","n":"22.5408320","s":"22.5404671","w":"114.0485323"}},{"id":269937921,"type":"way","tags":{"building:colour":"#968476","building:levels":"40","building:material":"concrete","building:part":"yes","height":"159.3"},"centroid":{"lat":"22.5397843","lon":"114.0487168"},"bounds":{"e":"114.0489076","n":"22.5399652","s":"22.5396033","w":"114.0485259"}},{"id":269950832,"type":"way","tags":{"building:levels":"24","building:material":"mirror","building:part":"yes","height":"100"},"centroid":{"lat":"22.5406418","lon":"114.0500184"},"bounds":{"e":"114.0501657","n":"22.5408729","s":"22.5404106","w":"114.0498712"}},{"id":269950838,"type":"way","tags":{"building:colour":"#a2aca1","building:levels":"40","building:material":"concrete","building:part":"yes","height":"162.4"},"centroid":{"lat":"22.5398291","lon":"114.0506376"},"bounds":{"e":"114.0508541","n":"22.5400244","s":"22.5396339","w":"114.0504211"}},{"id":269950840,"type":"way","tags":{"building:levels":"31","building:material":"mirror","building:part":"commercial","height":"152.7"},"centroid":{"lat":"22.5414149","lon":"114.0504553"},"bounds":{"e":"114.0506183","n":"22.5415623","s":"22.5412173","w":"114.0502410"}},{"id":269950857,"type":"way","tags":{"building":"commercial","building:levels":"48","building:material":"mirror","height":"219"},"centroid":{"lat":"22.5380953","lon":"114.0505715"},"bounds":{"e":"114.0508828","n":"22.5383051","s":"22.5378900","w":"114.0503254"}},{"id":269950865,"type":"way","tags":{"building":"commercial","building:levels":"4","name":"时代金融中心","name:en":"Times Financial Center","name:zh":"时代金融中心"},"centroid":{"lat":"22.5406432","lon":"114.0501360"},"bounds":{"e":"114.0507469","n":"22.5408809","s":"22.5404085","w":"114.0497603"}},{"id":269953431,"type":"way","tags":{"building:colour":"grey","building:levels":"37","building:material":"mirror","building:part":"yes","height":"133"},"centroid":{"lat":"22.5413612","lon":"114.0492584"},"bounds":{"e":"114.0494259","n":"22.5415844","s":"22.5411379","w":"114.0490910"}},{"id":269969840,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"1号","addr:postcode":"518048","addr:province":"广东省","addr:street":"中心四路","building":"commercial","building:levels":"4","building:material":"mirror","name":"3座"},"centroid":{"lat":"22.5379642","lon":"114.0520551"},"bounds":{"e":"114.0524856","n":"22.5381846","s":"22.5377426","w":"114.0516359"}},{"id":269974959,"type":"way","tags":{"building":"commercial","building:levels":"23","building:material":"mirror","height":"100","name":"2座"},"centroid":{"lat":"22.5379638","lon":"114.0529627"},"bounds":{"e":"114.0531472","n":"22.5381494","s":"22.5377604","w":"114.0527905"}},{"id":269974964,"type":"way","tags":{"building":"commercial","building:levels":"23","building:material":"mirror","height":"100","name":"1座"},"centroid":{"lat":"22.5386551","lon":"114.0529317"},"bounds":{"e":"114.0531156","n":"22.5388441","s":"22.5384627","w":"114.0527481"}},{"id":269974967,"type":"way","tags":{"building":"commercial","building:levels":"33","height":"180"},"centroid":{"lat":"22.5369618","lon":"114.0586674"},"bounds":{"e":"114.0588945","n":"22.5371292","s":"22.5367944","w":"114.0584403"}},{"id":269974972,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"1号","addr:postcode":"518048","addr:province":"广东省","addr:street":"中心四路","building":"commercial","building:levels":"4","building:material":"mirror"},"centroid":{"lat":"22.5384122","lon":"114.0529841"},"bounds":{"e":"114.0531775","n":"22.5388775","s":"22.5377222","w":"114.0527019"}},{"id":269974974,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"4088号","addr:postcode":"518048","addr:province":"广东省","addr:street":"益田路","brand":"Shangri-La","brand:wikidata":"Q837244","brand:wikipedia":"en:Shangri-La Hotels and Resorts","brand:zh":"香格里拉","building":"yes","building:levels":"4","building:material":"mirror","layer":"1","name":"深圳福田香格里拉大酒店","name:en":"Futian Shangri-La, Shenzhen","name:zh":" 深圳福田香格里拉大酒店","rooms":"528","stars":"5","tourism":"hotel"},"centroid":{"lat":"22.5390445","lon":"114.0519305"},"bounds":{"e":"114.0531615","n":"22.5392346","s":"22.5385894","w":"114.0516140"}},{"id":269978214,"type":"way","tags":{"building":"commercial","building:levels":"50","height":"200.5"},"centroid":{"lat":"22.5370513","lon":"114.0575185"},"bounds":{"e":"114.0577053","n":"22.5372257","s":"22.5368768","w":"114.0573317"}},{"id":270044025,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"2018号","addr:postcode":"518035","addr:province":"广东省","addr:street":"金田路","building":"commercial","building:levels":"31","building:material":"glass","height":"162","name":"安联大厦"},"centroid":{"lat":"22.5449762","lon":"114.0586118"},"bounds":{"e":"114.0587359","n":"22.5452963","s":"22.5446543","w":"114.0583569"}},{"id":270044901,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"88","addr:postcode":"518033","addr:province":"广东省","addr:street":"福华三路","building":"commercial","building:levels":"5","name":"财富大厦"},"centroid":{"lat":"22.5359782","lon":"114.0590106"},"bounds":{"e":"114.0592344","n":"22.5361887","s":"22.5357244","w":"114.0584655"}},{"id":270044910,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"3088号","addr:postcode":"518054","addr:province":"广东省","addr:street":"金田路","building":"commercial","building:levels":"43","building:material":"glass","height":"200","name":"中洲大厦"},"centroid":{"lat":"22.5400173","lon":"114.0586043"},"bounds":{"e":"114.0588081","n":"22.5402916","s":"22.5397429","w":"114.0584003"}},{"id":304053218,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"6003号","addr:province":"广东省","addr:street":"益田路","building":"commercial","building:levels":"31","height":"132","name":"荣超中心B座"},"centroid":{"lat":"22.5468400","lon":"114.0503520"},"bounds":{"e":"114.0506521","n":"22.5469764","s":"22.5467640","w":"114.0500990"}},{"id":345406920,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"3069号","addr:postcode":"518054","addr:province":"广东省","addr:street":"彩田路","building":"commercial","building:colour":"#354b4c","building:levels":"39","building:material":"glass","height":"170","name":"星河世纪大厦","name:en":"Galaxy Century","name:zh":"星河世纪大厦"},"centroid":{"lat":"22.5416117","lon":"114.0621841"},"bounds":{"e":"114.0623502","n":"22.5418281","s":"22.5413953","w":"114.0620179"}},{"id":345409505,"type":"way","tags":{"building:colour":"silver","building:levels":"24","building:part":"yes","height":"110","roof:colour":"#58896b"},"centroid":{"lat":"22.5439225","lon":"114.0611211"},"bounds":{"e":"114.0615392","n":"22.5440402","s":"22.5438047","w":"114.0607030"}},{"id":345409507,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"2008号","addr:postcode":"518035","addr:province":"广东省","addr:street":"深南大道","building":"commercial","building:levels":"29","building:material":"mirror","name":"B座"},"centroid":{"lat":"22.5440126","lon":"114.0600965"},"bounds":{"e":"114.0602168","n":"22.5443627","s":"22.5437337","w":"114.0600339"}},{"id":345409508,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"2008号","addr:postcode":"518035","addr:province":"广东省","addr:street":"深南大道","building":"commercial","building:levels":"29","building:material":"mirror","name":"A座"},"centroid":{"lat":"22.5438307","lon":"114.0596074"},"bounds":{"e":"114.0598591","n":"22.5439094","s":"22.5437260","w":"114.0592154"}},{"id":345409509,"type":"way","tags":{"building":"commercial","building:levels":"6","building:material":"mirror","name":"C座"},"centroid":{"lat":"22.5441311","lon":"114.0595629"},"bounds":{"e":"114.0598574","n":"22.5443595","s":"22.5439930","w":"114.0592105"}},{"id":345409510,"type":"way","tags":{"building:colour":"silver","building:levels":"5","building:part":"yes"},"centroid":{"lat":"22.5444598","lon":"114.0611218"},"bounds":{"e":"114.0615349","n":"22.5445917","s":"22.5441946","w":"114.0607102"}},{"id":345409512,"type":"way","tags":{"addr:block":"C座","addr:city":"深圳市","addr:district":"福田区","addr:housename":"大中华国际金融中心","addr:housenumber":"1003号","addr:province":"广东省","addr:street":"深南大道","building":"commercial","building:levels":"23","height":"120","name":"C座","ref":"C"},"centroid":{"lat":"22.5418516","lon":"114.0638699"},"bounds":{"e":"114.0641912","n":"22.5419707","s":"22.5417325","w":"114.0635488"}},{"id":345409513,"type":"way","tags":{"addr:block":"B座","addr:city":"深圳市","addr:district":"福田区","addr:housename":"大中华国际金融中心","addr:housenumber":"1003号","addr:province":"广东省","addr:street":"深南大道","alt_name":"大中华国际金融中心B座","brand":"Hilton","brand:wikidata":"Q598884","brand:wikipedia":"en:Hilton Hotels & Resorts","brand:zh":"希尔顿","building":"yes","building:levels":"23","height":"120","internet_access":"wlan","internet_access:fee":"no","name":"深圳大中华希尔顿酒店","name:en":"Hilton Shenzhen Futian","name:zh":"深圳大中华希尔顿酒店","phone":"+86 755 21308888","ref":"B","rooms":"320","stars":"5","tourism":"hotel","website":"https://www3.hilton.com/en/hotels/china/hilton-shenzhen-futian-SZXSFHI/index.html"},"centroid":{"lat":"22.5418673","lon":"114.0648756"},"bounds":{"e":"114.0652552","n":"22.5419874","s":"22.5417472","w":"114.0644961"}},{"id":345409515,"type":"way","tags":{"addr:block":"D座","addr:city":"深圳市","addr:district":"福田区","addr:housename":"大中华国际金融中心","addr:housenumber":"1003号","addr:province":"广东省","addr:street":"深南大道","building":"apartments","building:levels":"30","height":"120","name":"D座","ref":"D"},"centroid":{"lat":"22.5412885","lon":"114.0634286"},"bounds":{"e":"114.0635539","n":"22.5415214","s":"22.5410559","w":"114.0633033"}},{"id":456331569,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"184","addr:postcode":"518038","addr:province":"广东省","addr:street":"福中路","alt_name":"深圳当代艺术馆;深圳城市规划展览馆","building":"yes","building:colour":"#eadcd1","building:levels":"5","building:material":"concrete","height":"40","name":"深圳市当代艺术与城市规划馆","name:en":"The Museum of Contemporary Art & Planning Exhibition (MOCAPE)","name:zh":"深圳 市当代艺术与城市规划馆","roof:colour":"#eadcd1","roof:material":"concrete","short_name:en":"MOCAPE","tourism":"museum","wikidata":"Q17498976","wikipedia":"zh:当代艺术与城市规划展览馆 (深圳)"},"centroid":{"lat":"22.5484344","lon":"114.0563782"},"bounds":{"e":"114.0574497","n":"22.5492102","s":"22.5478235","w":"114.0560034"}},{"id":529086130,"type":"way","tags":{"building:levels":"4","building:part":"commercial"},"centroid":{"lat":"22.5433041","lon":"114.0404606"},"bounds":{"e":"114.0409549","n":"22.5434426","s":"22.5431498","w":"114.0399572"}},{"id":529086133,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"1号","addr:postcode":"518038","addr:province":"广东省","addr:street":"鹏程一路","building":"commercial","building:levels":"6","name":"广电大厦"},"centroid":{"lat":"22.5439057","lon":"114.0460136"},"bounds":{"e":"114.0465058","n":"22.5445047","s":"22.5435155","w":"114.0454152"}},{"id":529086136,"type":"way","tags":{"building":"commercial","building:colour":"#585b61","building:levels":"46","building:material":"glass","building:min_level":"10","height":"245.8","layer":"2","min_height":"64"},"centroid":{"lat":"22.5442904","lon":"114.0488190"},"bounds":{"e":"114.0490910","n":"22.5445476","s":"22.5440331","w":"114.0485470"}},{"id":529086137,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"5999号","addr:postcode":"518038","addr:province":"广东省","addr:street":"益田路","building":"commercial","building:levels":"42","building:material":"mirror","height":"208","name":"南方博时基金大厦"},"centroid":{"lat":"22.5437866","lon":"114.0503241"},"bounds":{"e":"114.0505574","n":"22.5440010","s":"22.5435721","w":"114.0500909"}},{"id":529086138,"type":"way","tags":{"building":"commercial","building:levels":"40","height":"230","name":"建设银行大厦"},"centroid":{"lat":"22.5447306","lon":"114.0472693"},"bounds":{"e":"114.0475196","n":"22.5449624","s":"22.5444987","w":"114.0470190"}},{"id":529831206,"type":"way","tags":{"addr:city":"Shenzhen","addr:district":"Futian","addr:housenumber":"8","addr:postcode":"518048","addr:province":"Guangdong","addr:street":"Futianxinsha Rd","building":"apartments","building:levels":"31","name":"Golf Garden A"},"centroid":{"lat":"22.5343825","lon":"114.0411445"},"bounds":{"e":"114.0413500","n":"22.5345014","s":"22.5342420","w":"114.0409477"}},{"id":535860513,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"5033","addr:postcode":"518048","addr:province":"广东省","addr:street":"益田路","alt_name":"平安金融中心北塔","alt_name:en":"Ping An Finance Center North Tower","alt_name:zh":"平安金融中心北塔","building":"commercial","building:colour":"silver","building:levels":"117","building:material":"glass","height":"599.1","name":"平安金融中心","name:en":"Ping An Finance Center","name:zh":"平安金融中心","roof:colour":"silver","roof:height":"36.9","roof:material":"glass","roof:shape":"pyramidal","smoking":"no","start_date":"2017-03","tourism":"attraction","wikidata":"Q1077308","wikipedia":"zh:平安金融中心"},"centroid":{"lat":"22.5369827","lon":"114.0503630","type":"entrance"},"bounds":{"e":"114.0507282","n":"22.5369838","s":"22.5363025","w":"114.0499831"}},{"id":545448762,"type":"way","tags":{"building:levels":"40","building:material":"glass","building:part":"yes","height":"177"},"centroid":{"lat":"22.5439252","lon":"114.0586833"},"bounds":{"e":"114.0589043","n":"22.5441237","s":"22.5437266","w":"114.0584624"}},{"id":545448764,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"2005号","addr:postcode":"518035","addr:province":"广东省","addr:street":"福中三路","building":"commercial","building:levels":"34","height":"159.7","name":"国银金融中心大厦"},"centroid":{"lat":"22.5450638","lon":"114.0594558"},"bounds":{"e":"114.0596524","n":"22.5452750","s":"22.5448525","w":"114.0592593"}},{"id":545448765,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"2005号","addr:postcode":"518035","addr:province":"广东省","addr:street":"福中三路","building":"commercial","building:levels":"22","height":"109.3","name":"民生金融大厦"},"centroid":{"lat":"22.5449662","lon":"114.0600319"},"bounds":{"e":"114.0601788","n":"22.5452496","s":"22.5446827","w":"114.0598849"}},{"id":546581818,"type":"way","tags":{"building":"commercial","building:colour":"#0372a6","building:levels":"60","building:material":"glass","height":"280","name":"1号楼","official_name":"卓越世纪中心1号楼","ref":"1"},"centroid":{"lat":"22.5348949","lon":"114.0588252"},"bounds":{"e":"114.0590300","n":"22.5350711","s":"22.5347194","w":"114.0585279"}},{"id":546581820,"type":"way","tags":{"building":"commercial","building:colour":"#0372a6","building:levels":"57","building:material":"glass","height":"250","name":"皇岗商务中心","official_name":"卓越世纪中心2号楼","ref":"2"},"centroid":{"lat":"22.5339724","lon":"114.0588253"},"bounds":{"e":"114.0590299","n":"22.5341483","s":"22.5337966","w":"114.0585278"}},{"id":546581821,"type":"way","tags":{"building":"commercial","building:colour":"#0372a6","building:levels":"45","building:material":"glass","height":"185","name":"3号楼","official_name":"卓越世纪中心3号楼"},"centroid":{"lat":"22.5349159","lon":"114.0597928"},"bounds":{"e":"114.0600313","n":"22.5350953","s":"22.5347366","w":"114.0595543"}},{"id":546581823,"type":"way","tags":{"building":"commercial","building:colour":"#0372a6","building:levels":"37","building:material":"glass","height":"156","name":"4号楼","official_name":"卓越世纪中心4号楼"},"centroid":{"lat":"22.5340152","lon":"114.0601131"},"bounds":{"e":"114.0602847","n":"22.5342706","s":"22.5338286","w":"114.0597000"}},{"id":559067029,"type":"way","tags":{"building":"hospital","building:levels":"13","name":"门诊楼 (A楼)"},"centroid":{"lat":"22.5502867","lon":"114.0498676"},"bounds":{"e":"114.0502858","n":"22.5506272","s":"22.5499431","w":"114.0493298"}},{"id":559067036,"type":"way","tags":{"building":"hospital","building:levels":"13","name":"住院楼 (B楼)"},"centroid":{"lat":"22.5502492","lon":"114.0484849"},"bounds":{"e":"114.0489830","n":"22.5505370","s":"22.5499216","w":"114.0479094"}},{"id":586140646,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"319","addr:postcode":"518026","addr:province":"广东省","addr:street":"福华路","building":"commercial","building:levels":"30","name":"兆邦基金融大厦"},"centroid":{"lat":"22.5370241","lon":"114.0624326"},"bounds":{"e":"114.0625731","n":"22.5372503","s":"22.5367978","w":"114.0622920"}},{"id":612995514,"type":"way","tags":{"building":"yes","building:levels":"30","name":"中深花園"},"centroid":{"lat":"22.5343386","lon":"114.0636596"},"bounds":{"e":"114.0639205","n":"22.5347169","s":"22.5339599","w":"114.0634014"}},{"id":612997284,"type":"way","tags":{"building:levels":"65","building:material":"mirror","building:part":"commercial","height":"253.6"},"centroid":{"lat":"22.5380242","lon":"114.0586283"},"bounds":{"e":"114.0588467","n":"22.5382338","s":"22.5378145","w":"114.0584100"}},{"id":612997286,"type":"way","tags":{"building":"construction","building:levels":"80","building:material":"mirror","height":"375.6","name":"大百汇中心","name:zh":"大百汇中心","old_name":"深圳中心","old_name:en":"Shenzhen Center","old_name:zh":"深圳中心"},"centroid":{"lat":"22.5391494","lon":"114.0586594"},"bounds":{"e":"114.0588937","n":"22.5393819","s":"22.5389035","w":"114.0584302"}},{"id":617162821,"type":"way","tags":{"building":"commercial","building:levels":"35","building:material":"mirror","height":"178.9"},"centroid":{"lat":"22.5435947","lon":"114.0473702"},"bounds":{"e":"114.0476045","n":"22.5438124","s":"22.5433769","w":"114.0471359"}},{"id":617162822,"type":"way","tags":{"building":"commercial","building:levels":"53","height":"238"},"centroid":{"lat":"22.5479092","lon":"114.0503964"},"bounds":{"e":"114.0506493","n":"22.5480572","s":"22.5477752","w":"114.0500386"}},{"id":617162830,"type":"way","tags":{"building":"commercial","building:levels":"53","height":"208","name":"江苏大厦"},"centroid":{"lat":"22.5488555","lon":"114.0504862"},"bounds":{"e":"114.0507742","n":"22.5490217","s":"22.5486452","w":"114.0503317"}},{"id":617162831,"type":"way","tags":{"building":"commercial","building:levels":"14"},"centroid":{"lat":"22.5490246","lon":"114.0502286"},"bounds":{"e":"114.0505204","n":"22.5491816","s":"22.5488981","w":"114.0499896"}},{"id":617162833,"type":"way","tags":{"building:levels":"48","building:material":"mirror","building:part":"yes","height":"219"},"centroid":{"lat":"22.5489394","lon":"114.0585571"},"bounds":{"e":"114.0587731","n":"22.5492438","s":"22.5486350","w":"114.0583411"}},{"id":702183064,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:province":"广东省","addr:street":"彩田路","area":"yes","building":"residential","building:levels":"0","layer":"1"},"centroid":{"lat":"22.5413780","lon":"114.0638156"},"bounds":{"e":"114.0639788","n":"22.5414782","s":"22.5412718","w":"114.0637306"}},{"id":702185238,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"1980","addr:postcode":"518000","addr:province":"广东省","addr:street":"彩田路","building":"residential","building:levels":"4","layer":"1","name":"城上绿云屋顶花园"},"centroid":{"lat":"22.5410276","lon":"114.0638325"},"bounds":{"e":"114.0639129","n":"22.5411048","s":"22.5409483","w":"114.0637507"}},{"id":773719239,"type":"way","tags":{"building":"yes","building:levels":"11","height":"55","name":"PAFC Mall","name:en":"PAFC Mall","name:zh":"平安金融中心商场","shop":"mall"},"centroid":{"lat":"22.5359333","lon":"114.0501987","type":"entrance"},"bounds":{"e":"114.0509014","n":"22.5363047","s":"22.5354300","w":"114.0501496"}},{"id":773719241,"type":"way","tags":{"building":"retail","building:levels":"11","building:min_level":"3","height":"55","layer":"1","min_height":"15"},"centroid":{"lat":"22.5353824","lon":"114.0506055"},"bounds":{"e":"114.0508425","n":"22.5356424","s":"22.5350908","w":"114.0503484"}},{"id":773719242,"type":"way","tags":{"building":"yes","building:levels":"11","height":"55","shop":"mall"},"centroid":{"lat":"22.5348432","lon":"114.0505294"},"bounds":{"e":"114.0509576","n":"22.5351987","s":"22.5344011","w":"114.0502054"}},{"id":774640911,"type":"way","tags":{"building:levels":"44","building:part":"commercial"},"centroid":{"lat":"22.5434707","lon":"114.0406996"},"bounds":{"e":"114.0407875","n":"22.5435362","s":"22.5434051","w":"114.0405921"}},{"id":774640912,"type":"way","tags":{"building":"commercial","building:levels":"7"},"centroid":{"lat":"22.5440676","lon":"114.0403157"},"bounds":{"e":"114.0406839","n":"22.5442473","s":"22.5438880","w":"114.0399475"}},{"id":775171563,"type":"way","tags":{"building:levels":"49","building:material":"glass","building:part":"yes","height":"266","roof:colour":"grey"},"centroid":{"lat":"22.5347329","lon":"114.0507867"},"bounds":{"e":"114.0509573","n":"22.5348904","s":"22.5345753","w":"114.0506161"}},{"id":775171564,"type":"way","tags":{"building:levels":"35","building:material":"glass","building:part":"yes","height":"196","roof:colour":"grey"},"centroid":{"lat":"22.5348940","lon":"114.0506147"},"bounds":{"e":"114.0507832","n":"22.5350496","s":"22.5347384","w":"114.0504463"}},{"id":775171565,"type":"way","tags":{"building:levels":"51","building:material":"glass","building:part":"yes","height":"289","roof:colour":"grey"},"centroid":{"lat":"22.5345512","lon":"114.0506126"},"bounds":{"e":"114.0507902","n":"22.5347384","s":"22.5344188","w":"114.0504443"}},{"id":775171566,"type":"way","tags":{"building:levels":"49","building:material":"glass","building:part":"yes","height":"266","roof:colour":"grey"},"centroid":{"lat":"22.5347397","lon":"114.0504453"},"bounds":{"e":"114.0506161","n":"22.5348975","s":"22.5345819","w":"114.0502745"}},{"id":775171644,"type":"way","tags":{"building":"retail","building:levels":"3"},"centroid":{"lat":"22.5362236","lon":"114.0487492"},"bounds":{"e":"114.0488338","n":"22.5363120","s":"22.5361392","w":"114.0486617"}},{"id":776141677,"type":"way","tags":{"building":"commercial","building:colour":"#0f1a1c","building:levels":"42","height":"195"},"centroid":{"lat":"22.5390028","lon":"114.0569157"},"bounds":{"e":"114.0575987","n":"22.5392775","s":"22.5387644","w":"114.0562592"}},{"id":776141678,"type":"way","tags":{"building":"commercial","building:colour":"#0f1a1c","building:levels":"30"},"centroid":{"lat":"22.5383351","lon":"114.0565134"},"bounds":{"e":"114.0567695","n":"22.5385511","s":"22.5381373","w":"114.0562673"}},{"id":776141679,"type":"way","tags":{"building":"commercial","building:colour":"#0f1a1c","building:levels":"30"},"centroid":{"lat":"22.5383487","lon":"114.0573640"},"bounds":{"e":"114.0576062","n":"22.5385742","s":"22.5381461","w":"114.0571151"}},{"id":776141681,"type":"way","tags":{"building":"commercial","building:levels":"48","height":"230.9"},"centroid":{"lat":"22.5360780","lon":"114.0575651"},"bounds":{"e":"114.0577516","n":"22.5363561","s":"22.5357999","w":"114.0573785"}},{"id":776141682,"type":"way","tags":{"building":"commercial","building:levels":"22","building:material":"mirror"},"centroid":{"lat":"22.5380214","lon":"114.0498513"},"bounds":{"e":"114.0500036","n":"22.5382963","s":"22.5377464","w":"114.0496990"}},{"id":776141683,"type":"way","tags":{"building":"hotel","building:levels":"28","building:material":"glass","height":"100"},"centroid":{"lat":"22.5359793","lon":"114.0565177"},"bounds":{"e":"114.0567172","n":"22.5361679","s":"22.5357173","w":"114.0561593"}},{"id":776141684,"type":"way","tags":{"building":"commercial","building:levels":"28","building:material":"glass","height":"100"},"centroid":{"lat":"22.5370102","lon":"114.0564218"},"bounds":{"e":"114.0567014","n":"22.5372091","s":"22.5368102","w":"114.0561422"}},{"id":776141685,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"2007号","addr:postcode":"518054","addr:province":"广东省","addr:street":"深南大道","building":"commercial","building:colour":"white","building:levels":"33","building:material":"concrete","height":"168.9","name":"金地中心","name:en":"Golden Land Center","name:zh":"金地中心"},"centroid":{"lat":"22.5414584","lon":"114.0587315"},"bounds":{"e":"114.0589742","n":"22.5416779","s":"22.5412388","w":"114.0584888"}},{"id":776141688,"type":"way","tags":{"building":"commercial","building:levels":"54","height":"218"},"centroid":{"lat":"22.5360398","lon":"114.0587073"},"bounds":{"e":"114.0590887","n":"22.5361887","s":"22.5359356","w":"114.0584655"}},{"id":776141689,"type":"way","tags":{"building":"commercial","building:levels":"40"},"centroid":{"lat":"22.5359689","lon":"114.0586466"},"bounds":{"e":"114.0587801","n":"22.5360295","s":"22.5359315","w":"114.0585569"}},{"id":776141690,"type":"way","tags":{"building":"commercial","building:levels":"40"},"centroid":{"lat":"22.5360146","lon":"114.0591695"},"bounds":{"e":"114.0592341","n":"22.5360715","s":"22.5359413","w":"114.0590859"}},{"id":776141693,"type":"way","tags":{"building":"retail","building:levels":"5","name":"卓悦中心西区","name:en":"One Avenue West","name:zh":"卓悦中心西区"},"centroid":{"lat":"22.5387433","lon":"114.0597559"},"bounds":{"e":"114.0601836","n":"22.5394496","s":"22.5378215","w":"114.0590840"}},{"id":776141694,"type":"way","tags":{"building":"commercial","building:levels":"35"},"centroid":{"lat":"22.5390188","lon":"114.0593170"},"bounds":{"e":"114.0595407","n":"22.5390984","s":"22.5389068","w":"114.0590957"}},{"id":776141708,"type":"way","tags":{"building":"commercial","building:levels":"26","name":"丰立大厦"},"centroid":{"lat":"22.5389722","lon":"114.0504508"},"bounds":{"e":"114.0506697","n":"22.5391315","s":"22.5388093","w":"114.0502249"}},{"id":776141709,"type":"way","tags":{"building":"commercial","building:levels":"5"},"centroid":{"lat":"22.5389226","lon":"114.0500733"},"bounds":{"e":"114.0501856","n":"22.5390875","s":"22.5386242","w":"114.0499613"}},{"id":776141711,"type":"way","tags":{"building":"yes","building:levels":"4","name":"卓越 Intown","shop":"mall"},"centroid":{"lat":"22.5343293","lon":"114.0597557"},"bounds":{"e":"114.0603638","n":"22.5350978","s":"22.5337471","w":"114.0592548"}},{"id":776182780,"type":"way","tags":{"building:colour":"#3d6d71","building:levels":"6","building:material":"glass","building:part":"yes","height":"31","roof:colour":"#3d6d71","roof:material":"glass"},"centroid":{"lat":"22.5502713","lon":"114.0566619"},"bounds":{"e":"114.0569032","n":"22.5504837","s":"22.5500292","w":"114.0564130"}},{"id":776182826,"type":"way","tags":{"building":"commercial","building:colour":"#585b61","building:levels":"6","building:material":"glass","height":"36"},"centroid":{"lat":"22.5439502","lon":"114.0488326","type":"entrance"},"bounds":{"e":"114.0493061","n":"22.5446397","s":"22.5439442","w":"114.0483306"}},{"id":776182829,"type":"way","tags":{"building":"yes","building:levels":"1"},"centroid":{"lat":"22.5439502","lon":"114.0488326","type":"entrance"},"bounds":{"e":"114.0491110","n":"22.5448049","s":"22.5435921","w":"114.0479922"}},{"id":776182834,"type":"way","tags":{"building":"commercial","building:levels":"26"},"centroid":{"lat":"22.5443522","lon":"114.0457416"},"bounds":{"e":"114.0459593","n":"22.5445047","s":"22.5441946","w":"114.0454152"}},{"id":776182836,"type":"way","tags":{"building":"construction","building:levels":"43","height":"202","name":"深圳广电集团网络科技信息大厦"},"centroid":{"lat":"22.5448675","lon":"114.0455216"},"bounds":{"e":"114.0457996","n":"22.5450967","s":"22.5446384","w":"114.0452436"}},{"id":776897365,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"2026","addr:postcode":"518031","addr:province":"广东省","addr:street":"金田路","building":"commercial","building:colour":"silver","building:levels":"43","building:material":"glass","height":"219.1","name":"北塔","name:en":"North Tower","name:zh":"北塔"},"centroid":{"lat":"22.5330733","lon":"114.0587405"},"bounds":{"e":"114.0589125","n":"22.5333285","s":"22.5328180","w":"114.0585684"}},{"id":776897366,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"2026","addr:postcode":"518031","addr:province":"广东省","addr:street":"金田路","building":"commercial","building:colour":"silver","building:levels":"20","building:material":"glass","height":"111.3","name":"南塔","name:en":"South Tower","name:zh":"南塔"},"centroid":{"lat":"22.5322947","lon":"114.0587767"},"bounds":{"e":"114.0589256","n":"22.5325356","s":"22.5320538","w":"114.0586277"}},{"id":776897367,"type":"way","tags":{"building":"commercial","building:colour":"silver","building:levels":"9","building:material":"glass","height":"50"},"centroid":{"lat":"22.5326770","lon":"114.0587587"},"bounds":{"e":"114.0589174","n":"22.5328229","s":"22.5325313","w":"114.0585771"}},{"id":776898831,"type":"way","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"2009","addr:postcode":"518026","addr:province":"广东省","addr:street":"彩田路","building":"commercial","building:levels":"33","height":"150.5","name":"瀚森大厦"},"centroid":{"lat":"22.5364009","lon":"114.0624210"},"bounds":{"e":"114.0625811","n":"22.5367136","s":"22.5361146","w":"114.0622976"}},{"id":780197214,"type":"way","tags":{"building:levels":"6","building:part":"yes","height":"60","roof:colour":"#fefcf2","roof:material":"metal"},"centroid":{"lat":"22.5335111","lon":"114.0547351"},"bounds":{"e":"114.0564946","n":"22.5337897","s":"22.5332328","w":"114.0529756"}},{"id":780500980,"type":"way","tags":{"building:colour":"#228aa0","building:levels":"24","building:material":"mirror","building:part":"yes","height":"110"},"centroid":{"lat":"22.5412994","lon":"114.0484834"},"bounds":{"e":"114.0486755","n":"22.5413970","s":"22.5410898","w":"114.0482617"}},{"id":780500981,"type":"way","tags":{"building:colour":"#228aa0","building:levels":"20","building:material":"mirror","building:part":"yes","height":"92"},"centroid":{"lat":"22.5412476","lon":"114.0487753"},"bounds":{"e":"114.0488439","n":"22.5413587","s":"22.5411253","w":"114.0486722"}},{"id":780500982,"type":"way","tags":{"building:colour":"#228aa0","building:levels":"20","building:material":"mirror","building:part":"yes","height":"92"},"centroid":{"lat":"22.5412396","lon":"114.0481666"},"bounds":{"e":"114.0482648","n":"22.5413525","s":"22.5411191","w":"114.0480997"}},{"id":780536852,"type":"way","tags":{"building:colour":"silver","building:levels":"0","building:material":"metal","building:part":"yes","height":"13.6","roof:colour":"silver","roof:height":"13.6","roof:levels":"1","roof:material":"metal","roof:shape":"dome"},"centroid":{"lat":"22.5506672","lon":"114.0563724"},"bounds":{"e":"114.0565040","n":"22.5507873","s":"22.5505405","w":"114.0562383"}},{"id":780536853,"type":"way","tags":{"building:colour":"#3d6d71","building:levels":"3","building:material":"glass","building:part":"yes","height":"23.6","roof:colour":"#3d6d71","roof:direction":"270","roof:height":"4.9","roof:levels":"1","roof:material":"glass","roof:shape":"skillion"},"centroid":{"lat":"22.5499252","lon":"114.0567105"},"bounds":{"e":"114.0567702","n":"22.5500525","s":"22.5497541","w":"114.0566508"}},{"id":780536854,"type":"way","tags":{"building:colour":"#cebeae","building:levels":"4","building:material":"concrete","building:part":"yes","height":"40","roof:colour":"#cebeae","roof:direction":"270","roof:height":"16.4","roof:levels":"2","roof:material":"concrete","roof:shape":"skillion"},"centroid":{"lat":"22.5501745","lon":"114.0569656"},"bounds":{"e":"114.0573482","n":"22.5507930","s":"22.5497557","w":"114.0567661"}},{"id":780536856,"type":"way","tags":{"building:colour":"#3d6d71","building:levels":"4","building:material":"glass","building:part":"yes","roof:colour":"#3d6d71"},"centroid":{"lat":"22.5505025","lon":"114.0568839"},"bounds":{"e":"114.0569732","n":"22.5505858","s":"22.5504207","w":"114.0567931"}},{"id":780536860,"type":"way","tags":{"building:colour":"#cebeae","building:levels":"4","building:material":"concrete","building:part":"yes","height":"37","roof:colour":"#8b8877","roof:material":"concrete"},"centroid":{"lat":"22.5499776","lon":"114.0572265"},"bounds":{"e":"114.0573552","n":"22.5501948","s":"22.5497604","w":"114.0570978"}},{"id":781193982,"type":"way","tags":{"building:levels":"23","building:material":"glass","building:part":"yes","height":"120","roof:material":"concrete"},"centroid":{"lat":"22.5418673","lon":"114.0648756"},"bounds":{"e":"114.0652491","n":"22.5419873","s":"22.5417473","w":"114.0645021"}},{"id":781193983,"type":"way","tags":{"building:levels":"23","building:material":"concrete","building:min_level":"4","building:part":"yes","height":"120","roof:material":"concrete"},"centroid":{"lat":"22.5418615","lon":"114.0645012"},"bounds":{"e":"114.0645063","n":"22.5419757","s":"22.5417472","w":"114.0644961"}},{"id":781193985,"type":"way","tags":{"building:levels":"23","building:material":"glass","building:part":"yes","height":"120","roof:material":"concrete"},"centroid":{"lat":"22.5418516","lon":"114.0638697"},"bounds":{"e":"114.0641858","n":"22.5419706","s":"22.5417326","w":"114.0635536"}},{"id":781193986,"type":"way","tags":{"building:levels":"23","building:material":"concrete","building:min_level":"4","building:part":"yes","height":"120","roof:material":"concrete"},"centroid":{"lat":"22.5418467","lon":"114.0635533"},"bounds":{"e":"114.0635578","n":"22.5419609","s":"22.5417325","w":"114.0635488"}},{"id":781193987,"type":"way","tags":{"building:levels":"23","building:material":"concrete","building:min_level":"4","building:part":"yes","height":"120","roof:material":"concrete"},"centroid":{"lat":"22.5418565","lon":"114.0641864"},"bounds":{"e":"114.0641912","n":"22.5419707","s":"22.5417423","w":"114.0641816"}},{"id":781193988,"type":"way","tags":{"building:levels":"23","building:material":"concrete","building:min_level":"4","building:part":"yes","height":"120","roof:material":"concrete"},"centroid":{"lat":"22.5410628","lon":"114.0634178"},"bounds":{"e":"114.0635322","n":"22.5410697","s":"22.5410559","w":"114.0633033"}},{"id":781193989,"type":"way","tags":{"building:levels":"23","building:material":"glass","building:part":"yes","height":"120","roof:material":"concrete"},"centroid":{"lat":"22.5412881","lon":"114.0634286"},"bounds":{"e":"114.0635536","n":"22.5415159","s":"22.5410604","w":"114.0633035"}},{"id":781193990,"type":"way","tags":{"building:levels":"23","building:material":"concrete","building:min_level":"4","building:part":"yes","height":"120","roof:material":"concrete"},"centroid":{"lat":"22.5415140","lon":"114.0634394"},"bounds":{"e":"114.0635539","n":"22.5415214","s":"22.5415065","w":"114.0633250"}},{"id":781271949,"type":"way","tags":{"building:levels":"5","building:part":"yes"},"centroid":{"lat":"22.5440571","lon":"114.0611205"},"bounds":{"e":"114.0612748","n":"22.5440701","s":"22.5440330","w":"114.0609662"}},{"id":781271950,"type":"way","tags":{"building:levels":"5","building:min_level":"2","building:part":"yes"},"centroid":{"lat":"22.5441344","lon":"114.0611196"},"bounds":{"e":"114.0611634","n":"22.5442013","s":"22.5440675","w":"114.0610757"}},{"id":781271951,"type":"way","tags":{"building:colour":"#56545a","building:levels":"39","building:material":"metal","building:part":"yes","height":"177","roof:colour":"#56545a"},"centroid":{"lat":"22.5440302","lon":"114.0620285"},"bounds":{"e":"114.0621935","n":"22.5443166","s":"22.5437439","w":"114.0618634"}},{"id":781271952,"type":"way","tags":{"building:colour":"#56545a","building:levels":"24","building:material":"metal","building:part":"yes","height":"108","roof:colour":"#56545a"},"centroid":{"lat":"22.5450663","lon":"114.0621311"},"bounds":{"e":"114.0622975","n":"22.5453568","s":"22.5447758","w":"114.0619647"}},{"id":781271953,"type":"way","tags":{"building:colour":"#56545a","building:levels":"4","building:material":"metal","building:part":"yes","height":"25","roof:colour":"#56545a"},"centroid":{"lat":"22.5444203","lon":"114.0620249"},"bounds":{"e":"114.0621884","n":"22.5445266","s":"22.5443139","w":"114.0618615"}},{"id":781271954,"type":"way","tags":{"building:colour":"#56545a","building:levels":"24","building:material":"metal","building:min_level":"8","building:part":"yes","height":"108","min_height":"38","roof:colour":"#56545a"},"centroid":{"lat":"22.5447049","lon":"114.0621379"},"bounds":{"e":"114.0623003","n":"22.5447810","s":"22.5446288","w":"114.0619755"}},{"id":781271955,"type":"way","tags":{"building:colour":"#56545a","building:levels":"4","building:material":"metal","building:part":"yes","height":"25","roof:colour":"#56545a"},"centroid":{"lat":"22.5450629","lon":"114.0619232"},"bounds":{"e":"114.0619755","n":"22.5453516","s":"22.5447741","w":"114.0618708"}},{"id":781271956,"type":"way","tags":{"building:levels":"8","building:part":"yes"},"centroid":{"lat":"22.5438669","lon":"114.0607399"},"bounds":{"e":"114.0608633","n":"22.5440296","s":"22.5437644","w":"114.0606501"}},{"id":781271957,"type":"way","tags":{"building:levels":"8","building:part":"yes"},"centroid":{"lat":"22.5438767","lon":"114.0615050"},"bounds":{"e":"114.0615944","n":"22.5440409","s":"22.5437738","w":"114.0613848"}},{"id":781447558,"type":"way","tags":{"building:levels":"4","building:part":"yes"},"centroid":{"lat":"22.5413405","lon":"114.0484707"},"bounds":{"e":"114.0488681","n":"22.5414933","s":"22.5411123","w":"114.0480800"}},{"id":781536965,"type":"way","tags":{"building:levels":"3","building:material":"glass","building:part":"yes","height":"10"},"centroid":{"lat":"22.5458690","lon":"114.0560089","type":"entrance"},"bounds":{"e":"114.0561412","n":"22.5460893","s":"22.5458414","w":"114.0556154"}},{"id":781536966,"type":"way","tags":{"building:levels":"3","building:material":"glass","building:part":"yes","height":"10"},"centroid":{"lat":"22.5457941","lon":"114.0566180"},"bounds":{"e":"114.0568719","n":"22.5459587","s":"22.5456211","w":"114.0563634"}},{"id":781536968,"type":"way","tags":{"building:levels":"5","building:material":"glass","building:part":"yes","height":"19"},"centroid":{"lat":"22.5468482","lon":"114.0566111"},"bounds":{"e":"114.0568588","n":"22.5469205","s":"22.5467759","w":"114.0563633"}},{"id":781536969,"type":"way","tags":{"building:levels":"4","building:material":"concrete","building:part":"yes","height":"15"},"centroid":{"lat":"22.5463088","lon":"114.0568641","type":"entrance"},"bounds":{"e":"114.0568661","n":"22.5464919","s":"22.5461246","w":"114.0567455"}},{"id":781536970,"type":"way","tags":{"building:levels":"3","building:part":"yes","height":"10"},"centroid":{"lat":"22.5468405","lon":"114.0558645"},"bounds":{"e":"114.0561246","n":"22.5469121","s":"22.5467690","w":"114.0556044"}},{"id":781536971,"type":"way","tags":{"building:levels":"5","building:material":"glass","building:part":"yes","height":"19"},"centroid":{"lat":"22.5464292","lon":"114.0556154"},"bounds":{"e":"114.0556248","n":"22.5467691","s":"22.5460892","w":"114.0556061"}},{"id":781536976,"type":"way","tags":{"building:levels":"5","building:material":"glass","building:min_level":"1","building:part":"yes","height":"17","roof:material":"glass"},"centroid":{"lat":"22.5462978","lon":"114.0539946"},"bounds":{"e":"114.0542701","n":"22.5466516","s":"22.5459440","w":"114.0537190"}},{"id":781536978,"type":"way","tags":{"building:levels":"5","building:material":"glass","building:min_level":"1","building:part":"yes","height":"17","roof:material":"glass"},"centroid":{"lat":"22.5463097","lon":"114.0550237"},"bounds":{"e":"114.0552992","n":"22.5466635","s":"22.5459558","w":"114.0547481"}},{"id":781536983,"type":"way","tags":{"building:levels":"6","building:material":"glass","building:part":"yes","height":"23"},"centroid":{"lat":"22.5467636","lon":"114.0550154"},"bounds":{"e":"114.0551388","n":"22.5468206","s":"22.5467067","w":"114.0548920"}},{"id":781536984,"type":"way","tags":{"building:levels":"6","building:material":"glass","building:part":"yes","height":"23"},"centroid":{"lat":"22.5467383","lon":"114.0539872"},"bounds":{"e":"114.0541107","n":"22.5467953","s":"22.5466814","w":"114.0538638"}},{"id":781554188,"type":"way","tags":{"building:levels":"6","building:material":"concrete","building:part":"yes","height":"40","roof:colour":"grey","roof:direction":"89","roof:height":"6","roof:material":"concrete","roof:shape":"skillion"},"centroid":{"lat":"22.5483544","lon":"114.0520132"},"bounds":{"e":"114.0522122","n":"22.5488564","s":"22.5480117","w":"114.0517996"}},{"id":781554189,"type":"way","tags":{"building:colour":"#343434","building:levels":"8","building:material":"concrete","building:part":"yes","height":"44"},"centroid":{"lat":"22.5480990","lon":"114.0521782"},"bounds":{"e":"114.0523578","n":"22.5481908","s":"22.5479525","w":"114.0519323"}},{"id":781554190,"type":"way","tags":{"building:colour":"#343434","building:levels":"8","building:material":"concrete","building:part":"yes","height":"44"},"centroid":{"lat":"22.5481720","lon":"114.0520299"},"bounds":{"e":"114.0521860","n":"22.5483322","s":"22.5480117","w":"114.0518738"}},{"id":781554191,"type":"way","tags":{"building:colour":"#343434","building:levels":"8","building:material":"concrete","building:part":"yes","height":"44"},"centroid":{"lat":"22.5482681","lon":"114.0519171"},"bounds":{"e":"114.0520283","n":"22.5484783","s":"22.5480578","w":"114.0518060"}},{"id":781554192,"type":"way","tags":{"building:colour":"#343434","building:levels":"8","building:material":"concrete","building:part":"yes","height":"44"},"centroid":{"lat":"22.5486200","lon":"114.0517672"},"bounds":{"e":"114.0518060","n":"22.5491601","s":"22.5480798","w":"114.0517284"}},{"id":781554197,"type":"way","tags":{"building:levels":"6","building:material":"glass","building:part":"yes","height":"40","roof:colour":"grey","roof:direction":"89","roof:height":"6","roof:material":"concrete","roof:shape":"skillion"},"centroid":{"lat":"22.5503007","lon":"114.0519471"},"bounds":{"e":"114.0521823","n":"22.5506838","s":"22.5497792","w":"114.0517711"}},{"id":10794736,"type":"relation","tags":{"addr:city":"深圳市","addr:district":"福田区","addr:housenumber":"70号","addr:postcode":"518034","addr:province":"广东省","addr:street":"景田路","building":"commercial","building:levels":"12","name":"图书馆大厦","name:zh":"图书馆大厦","type":"multipolygon"},"centroid":{"lat":"22.5538198","lon":"114.0404405"},"bounds":{"e":"114.0409298","n":"22.5540511","s":"22.5535883","w":"114.0399665"}},{"id":10823226,"type":"relation","tags":{"building:colour":"#cebeae","building:levels":"0","building:material":"concrete","building:part":"yes","height":"36","roof:colour":"#cebeae","roof:direction":"270","roof:height":"36","roof:levels":"6","roof:material":"concrete","roof:shape":"skillion","type":"multipolygon"},"centroid":{"lat":"22.5505307","lon":"114.0565965"},"bounds":{"e":"114.0572488","n":"22.5508744","s":"22.5503397","w":"114.0561844"}},{"id":10837976,"type":"relation","tags":{"building:levels":"5","building:material":"glass","building:part":"yes","height":"19","type":"multipolygon"},"centroid":{"lat":"22.5457928","lon":"114.0528557","type":"entrance"},"bounds":{"e":"114.0534405","n":"22.5468855","s":"22.5455733","w":"114.0521782"}},{"id":10837977,"type":"relation","tags":{"building:levels":"5","building:material":"concrete","building:part":"yes","height":"19","type":"multipolygon"},"centroid":{"lat":"22.5462376","lon":"114.0563823"},"bounds":{"e":"114.0568700","n":"22.5467815","s":"22.5457898","w":"114.0556154"}},{"id":10837978,"type":"relation","tags":{"building:levels":"1","building:material":"concrete","building:part":"yes","height":"3.4","type":"multipolygon"},"centroid":{"lat":"22.5469651","lon":"114.0544799"},"bounds":{"e":"114.0553444","n":"22.5469685","s":"22.5457946","w":"114.0536706"}}]}
+[
+    {
+        "id": 65255027,
+        "type": "way",
+        "tags": {
+            "building:levels": "42",
+            "building:part": "commercial"
+        },
+        "centroid": {
+            "lat": "22.5434265",
+            "lon": "114.0403894"
+        },
+        "bounds": {
+            "e": "114.0407203",
+            "n": "22.5436940",
+            "s": "22.5432699",
+            "w": "114.0400301"
+        }
+    },
+    {
+        "id": 146862823,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "111",
+            "addr:postcode": "518048",
+            "addr:province": "广东省",
+            "addr:street": "福华三路",
+            "building": "public",
+            "building:levels": "3",
+            "building:material": "glass",
+            "height": "35",
+            "name": "深圳会展中心",
+            "name:en": "Shenzhen Convention & Exhibition Center",
+            "name:zh": "深圳会展中心",
+            "name:zh-Hans": "深圳会展中心",
+            "name:zh-Hant": "深圳會展中心",
+            "roof:colour": "#fefcf2",
+            "roof:material": "metal",
+            "roof:orientation": "along",
+            "roof:shape": "saltbox",
+            "wikidata": "Q16926203",
+            "wikipedia": "zh:深圳會展中心"
+        },
+        "centroid": {
+            "lat": "22.5340292",
+            "lon": "114.0547345",
+            "type": "entrance"
+        },
+        "bounds": {
+            "e": "114.0574217",
+            "n": "22.5348725",
+            "s": "22.5321711",
+            "w": "114.0520723"
+        }
+    },
+    {
+        "id": 146864424,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:colour": "#585b61",
+            "building:levels": "10",
+            "building:material": "glass",
+            "building:min_level": "6",
+            "height": "64",
+            "layer": "1",
+            "min_height": "36"
+        },
+        "centroid": {
+            "lat": "22.5442991",
+            "lon": "114.0488311"
+        },
+        "bounds": {
+            "e": "114.0496400",
+            "n": "22.5447696",
+            "s": "22.5438287",
+            "w": "114.0480222"
+        }
+    },
+    {
+        "id": 146867408,
+        "type": "way",
+        "tags": {
+            "building": "yes",
+            "building:levels": "2",
+            "building:min_level": "1",
+            "layer": "1"
+        },
+        "centroid": {
+            "lat": "22.5493695",
+            "lon": "114.0520019"
+        },
+        "bounds": {
+            "e": "114.0520990",
+            "n": "22.5495053",
+            "s": "22.5492339",
+            "w": "114.0519527"
+        }
+    },
+    {
+        "id": 160902163,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "1006号",
+            "addr:postcode": "518038",
+            "addr:province": "广东省",
+            "addr:street": "福中三路",
+            "building": "commercial",
+            "building:levels": "38",
+            "building:material": "mirror",
+            "height": "193.2",
+            "name": "诺德中心"
+        },
+        "centroid": {
+            "lat": "22.5459670",
+            "lon": "114.0585409"
+        },
+        "bounds": {
+            "e": "114.0587753",
+            "n": "22.5461744",
+            "s": "22.5457595",
+            "w": "114.0583066"
+        }
+    },
+    {
+        "id": 183019557,
+        "type": "way",
+        "tags": {
+            "building:levels": "3",
+            "building:material": "concrete",
+            "building:part": "yes",
+            "height": "10",
+            "roof:colour": "#cdc3b7"
+        },
+        "centroid": {
+            "lat": "22.5484807",
+            "lon": "114.0544870"
+        },
+        "bounds": {
+            "e": "114.0551001",
+            "n": "22.5492450",
+            "s": "22.5476897",
+            "w": "114.0539118"
+        }
+    },
+    {
+        "id": 183019558,
+        "type": "way",
+        "tags": {
+            "building:levels": "3",
+            "building:material": "glass",
+            "building:min_level": "1",
+            "building:part": "yes",
+            "height": "10",
+            "layer": "1",
+            "min_height": "4.2",
+            "roof:colour": "#cdc3b7"
+        },
+        "centroid": {
+            "lat": "22.5494154",
+            "lon": "114.0544652"
+        },
+        "bounds": {
+            "e": "114.0547592",
+            "n": "22.5495947",
+            "s": "22.5492361",
+            "w": "114.0541712"
+        }
+    },
+    {
+        "id": 183019559,
+        "type": "way",
+        "tags": {
+            "building:levels": "3",
+            "building:material": "concrete",
+            "building:part": "yes",
+            "height": "10",
+            "roof:colour": "#cdc3b7"
+        },
+        "centroid": {
+            "lat": "22.5502452",
+            "lon": "114.0544489"
+        },
+        "bounds": {
+            "e": "114.0549404",
+            "n": "22.5509062",
+            "s": "22.5495843",
+            "w": "114.0539726"
+        }
+    },
+    {
+        "id": 193921211,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "118号",
+            "addr:postcode": "518048",
+            "addr:province": "广东 省",
+            "addr:street": "福华三路",
+            "building": "yes",
+            "building:levels": "3",
+            "name": "皇庭广场",
+            "name:en": "Wongtee Plaza",
+            "name:zh": "皇庭广场",
+            "opening_hours": "Su-Th 10:00-22:00; Fr-Sa 10:00-22:30",
+            "shop": "mall",
+            "website": "http://www.wongteeplaza.com"
+        },
+        "centroid": {
+            "lat": "22.5357546",
+            "lon": "114.0546887",
+            "type": "entrance"
+        },
+        "bounds": {
+            "e": "114.0554637",
+            "n": "22.5371670",
+            "s": "22.5356130",
+            "w": "114.0538966"
+        }
+    },
+    {
+        "id": 193921212,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "3号",
+            "addr:postcode": "518048",
+            "addr:province": "广东省",
+            "addr:street": "福华一路",
+            "building": "yes",
+            "building:levels": "3",
+            "name": "怡景中心城",
+            "name:en": "Yijing Central City",
+            "name:zh": "怡景中心城",
+            "shop": "mall"
+        },
+        "centroid": {
+            "lat": "22.5377508",
+            "lon": "114.0546643",
+            "type": "entrance"
+        },
+        "bounds": {
+            "e": "114.0554121",
+            "n": "22.5393716",
+            "s": "22.5377415",
+            "w": "114.0538470"
+        }
+    },
+    {
+        "id": 193921213,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "1号",
+            "addr:postcode": "518048",
+            "addr:province": "广东省",
+            "addr:street": "福华一路",
+            "building": "commercial",
+            "building:colour": "#0f1a1c",
+            "building:levels": "8",
+            "name": "大中华国际交易广场",
+            "name:en": "Great China International Exchange Square",
+            "name:zh": "大中华国际交易广场"
+        },
+        "centroid": {
+            "lat": "22.5386971",
+            "lon": "114.0568956"
+        },
+        "bounds": {
+            "e": "114.0576067",
+            "n": "22.5392775",
+            "s": "22.5380942",
+            "w": "114.0562587"
+        }
+    },
+    {
+        "id": 237818416,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "138号",
+            "addr:postcode": "518048",
+            "addr:province": "广东 省",
+            "addr:street": "福华三路",
+            "brand": "Four Seasons",
+            "brand:wikidata": "Q1424786",
+            "brand:wikipedia": "en:Four Seasons Hotels and Resorts",
+            "brand:zh": "四季酒店",
+            "building": "yes",
+            "building:levels": "25",
+            "building:material": "mirror",
+            "internet_access": "yes",
+            "name": "深圳四季酒店",
+            "name:en": "Four Seasons Hotel Shenzhen",
+            "name:zh": "深圳四季酒店",
+            "rooms": "266",
+            "stars": "5",
+            "tourism": "hotel"
+        },
+        "centroid": {
+            "lat": "22.5359702",
+            "lon": "114.0528448"
+        },
+        "bounds": {
+            "e": "114.0530079",
+            "n": "22.5362778",
+            "s": "22.5356620",
+            "w": "114.0527096"
+        }
+    },
+    {
+        "id": 237818419,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "25",
+            "building:material": "mirror"
+        },
+        "centroid": {
+            "lat": "22.5369618",
+            "lon": "114.0529528"
+        },
+        "bounds": {
+            "e": "114.0532090",
+            "n": "22.5371364",
+            "s": "22.5367876",
+            "w": "114.0526966"
+        }
+    },
+    {
+        "id": 237818420,
+        "type": "way",
+        "tags": {
+            "building": "hotel",
+            "building:levels": "40",
+            "building:material": "mirror",
+            "height": "191",
+            "layer": "2"
+        },
+        "centroid": {
+            "lat": "22.5390403",
+            "lon": "114.0518186"
+        },
+        "bounds": {
+            "e": "114.0520289",
+            "n": "22.5392346",
+            "s": "22.5388512",
+            "w": "114.0516140"
+        }
+    },
+    {
+        "id": 237818421,
+        "type": "way",
+        "tags": {
+            "building:levels": "58",
+            "building:material": "mirror",
+            "building:part": "yes",
+            "height": "216"
+        },
+        "centroid": {
+            "lat": "22.5358406",
+            "lon": "114.0518828"
+        },
+        "bounds": {
+            "e": "114.0521000",
+            "n": "22.5360423",
+            "s": "22.5356388",
+            "w": "114.0516657"
+        }
+    },
+    {
+        "id": 237818422,
+        "type": "way",
+        "tags": {
+            "building:levels": "52",
+            "building:material": "mirror",
+            "building:part": "commercial",
+            "height": "218"
+        },
+        "centroid": {
+            "lat": "22.5369614",
+            "lon": "114.0518498"
+        },
+        "bounds": {
+            "e": "114.0520527",
+            "n": "22.5371376",
+            "s": "22.5367853",
+            "w": "114.0516470"
+        }
+    },
+    {
+        "id": 237818424,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "42",
+            "building:material": "mirror",
+            "height": "200"
+        },
+        "centroid": {
+            "lat": "22.5379597",
+            "lon": "114.0518413"
+        },
+        "bounds": {
+            "e": "114.0520467",
+            "n": "22.5381767",
+            "s": "22.5377426",
+            "w": "114.0516359"
+        }
+    },
+    {
+        "id": 238825588,
+        "type": "way",
+        "tags": {
+            "building": "retail",
+            "building:levels": "5",
+            "opening_hours": "10:00-22:00"
+        },
+        "centroid": {
+            "lat": "22.5357970",
+            "lon": "114.0497303",
+            "type": "entrance"
+        },
+        "bounds": {
+            "e": "114.0497617",
+            "n": "22.5371403",
+            "s": "22.5354874",
+            "w": "114.0479889"
+        }
+    },
+    {
+        "id": 241116474,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "5055号",
+            "addr:postcode": "518048",
+            "addr:province": "广东省",
+            "addr:street": "益田路",
+            "building": "commercial",
+            "building:levels": "8",
+            "building:material": "mirror",
+            "name": "信息枢纽大厦"
+        },
+        "centroid": {
+            "lat": "22.5380610",
+            "lon": "114.0505184"
+        },
+        "bounds": {
+            "e": "114.0508864",
+            "n": "22.5383051",
+            "s": "22.5377464",
+            "w": "114.0496990"
+        }
+    },
+    {
+        "id": 241491633,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "168号",
+            "addr:postcode": "518048",
+            "addr:province": "广东 省",
+            "addr:street": "福华三路",
+            "building": "commercial",
+            "building:levels": "4",
+            "building:material": "mirror",
+            "name": "荣超国际商会中心",
+            "name:en": "Shenzhen International Chamber of Commerce",
+            "name:zh": "荣超国际商会中心"
+        },
+        "centroid": {
+            "lat": "22.5359390",
+            "lon": "114.0520409"
+        },
+        "bounds": {
+            "e": "114.0525245",
+            "n": "22.5362285",
+            "s": "22.5356388",
+            "w": "114.0516630"
+        }
+    },
+    {
+        "id": 241492958,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "8号",
+            "addr:postcode": "518048",
+            "addr:province": "广东省",
+            "addr:street": "中心三路",
+            "alt_name": "卓越时代广场二期",
+            "alt_name:en": "Times Square Excellence II",
+            "alt_name:zh": "卓越时代广场二期",
+            "building": "commercial",
+            "building:levels": "4",
+            "building:material": "mirror",
+            "name": "中信证券大厦",
+            "name:en": "CITIC Securities Building",
+            "name:zh": "中信证券大厦"
+        },
+        "centroid": {
+            "lat": "22.5364191",
+            "lon": "114.0532148",
+            "type": "entrance"
+        },
+        "bounds": {
+            "e": "114.0532263",
+            "n": "22.5371364",
+            "s": "22.5356620",
+            "w": "114.0526966"
+        }
+    },
+    {
+        "id": 241492962,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "4068号",
+            "addr:postcode": "518048",
+            "addr:province": "广东省",
+            "addr:street": "益田路",
+            "building": "commercial",
+            "building:levels": "4",
+            "name": "卓越时代广场一期",
+            "name:en": "Times Square Excellence I",
+            "name:zh": "卓越时代 广场一期"
+        },
+        "centroid": {
+            "lat": "22.5368439",
+            "lon": "114.0520120"
+        },
+        "bounds": {
+            "e": "114.0524934",
+            "n": "22.5371418",
+            "s": "22.5364832",
+            "w": "114.0516470"
+        }
+    },
+    {
+        "id": 245978165,
+        "type": "way",
+        "tags": {
+            "building": "retail",
+            "building:levels": "4",
+            "building:material": "glass"
+        },
+        "centroid": {
+            "lat": "22.5416984",
+            "lon": "114.0645314"
+        },
+        "bounds": {
+            "e": "114.0665209",
+            "n": "22.5420058",
+            "s": "22.5410326",
+            "w": "114.0633020"
+        }
+    },
+    {
+        "id": 246255723,
+        "type": "way",
+        "tags": {
+            "building": "hotel",
+            "building:levels": "10",
+            "name": "A座",
+            "name:en": "Building A",
+            "name:zh": "A座",
+            "official_name": "五洲宾馆A座"
+        },
+        "centroid": {
+            "lat": "22.5404273",
+            "lon": "114.0421364",
+            "type": "entrance"
+        },
+        "bounds": {
+            "e": "114.0430638",
+            "n": "22.5410721",
+            "s": "22.5396305",
+            "w": "114.0417225"
+        }
+    },
+    {
+        "id": 246255724,
+        "type": "way",
+        "tags": {
+            "building": "hotel",
+            "building:levels": "10",
+            "layer": "1",
+            "name": "B座",
+            "name:en": "Building B",
+            "name:zh": "B座",
+            "official_name": "五洲宾馆B座"
+        },
+        "centroid": {
+            "lat": "22.5396360",
+            "lon": "114.0431661"
+        },
+        "bounds": {
+            "e": "114.0435720",
+            "n": "22.5399325",
+            "s": "22.5390078",
+            "w": "114.0430299"
+        }
+    },
+    {
+        "id": 269895563,
+        "type": "way",
+        "tags": {
+            "building:levels": "52",
+            "building:material": "mirror",
+            "building:part": "yes",
+            "height": "206"
+        },
+        "centroid": {
+            "lat": "22.5468513",
+            "lon": "114.0584911"
+        },
+        "bounds": {
+            "e": "114.0587254",
+            "n": "22.5470521",
+            "s": "22.5466505",
+            "w": "114.0582567"
+        }
+    },
+    {
+        "id": 269895565,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "6003号",
+            "addr:province": "广东省",
+            "addr:street": "益田路",
+            "building": "commercial",
+            "building:levels": "46",
+            "height": "193",
+            "name": "荣超中心A座"
+        },
+        "centroid": {
+            "lat": "22.5458518",
+            "lon": "114.0503056"
+        },
+        "bounds": {
+            "e": "114.0505057",
+            "n": "22.5460095",
+            "s": "22.5456163",
+            "w": "114.0500636"
+        }
+    },
+    {
+        "id": 269895573,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "48",
+            "height": "228",
+            "name": "太平金融大厦",
+            "name:en": "Taiping Finance Building",
+            "name:zh": "太平金融大厦"
+        },
+        "centroid": {
+            "lat": "22.5448490",
+            "lon": "114.0504327"
+        },
+        "bounds": {
+            "e": "114.0506980",
+            "n": "22.5450896",
+            "s": "22.5446084",
+            "w": "114.0501674"
+        }
+    },
+    {
+        "id": 269937917,
+        "type": "way",
+        "tags": {
+            "building:levels": "33",
+            "building:material": "mirror",
+            "building:part": "yes"
+        },
+        "centroid": {
+            "lat": "22.5406496",
+            "lon": "114.0487301"
+        },
+        "bounds": {
+            "e": "114.0489279",
+            "n": "22.5408320",
+            "s": "22.5404671",
+            "w": "114.0485323"
+        }
+    },
+    {
+        "id": 269937921,
+        "type": "way",
+        "tags": {
+            "building:colour": "#968476",
+            "building:levels": "40",
+            "building:material": "concrete",
+            "building:part": "yes",
+            "height": "159.3"
+        },
+        "centroid": {
+            "lat": "22.5397843",
+            "lon": "114.0487168"
+        },
+        "bounds": {
+            "e": "114.0489076",
+            "n": "22.5399652",
+            "s": "22.5396033",
+            "w": "114.0485259"
+        }
+    },
+    {
+        "id": 269950832,
+        "type": "way",
+        "tags": {
+            "building:levels": "24",
+            "building:material": "mirror",
+            "building:part": "yes",
+            "height": "100"
+        },
+        "centroid": {
+            "lat": "22.5406418",
+            "lon": "114.0500184"
+        },
+        "bounds": {
+            "e": "114.0501657",
+            "n": "22.5408729",
+            "s": "22.5404106",
+            "w": "114.0498712"
+        }
+    },
+    {
+        "id": 269950838,
+        "type": "way",
+        "tags": {
+            "building:colour": "#a2aca1",
+            "building:levels": "40",
+            "building:material": "concrete",
+            "building:part": "yes",
+            "height": "162.4"
+        },
+        "centroid": {
+            "lat": "22.5398291",
+            "lon": "114.0506376"
+        },
+        "bounds": {
+            "e": "114.0508541",
+            "n": "22.5400244",
+            "s": "22.5396339",
+            "w": "114.0504211"
+        }
+    },
+    {
+        "id": 269950840,
+        "type": "way",
+        "tags": {
+            "building:levels": "31",
+            "building:material": "mirror",
+            "building:part": "commercial",
+            "height": "152.7"
+        },
+        "centroid": {
+            "lat": "22.5414149",
+            "lon": "114.0504553"
+        },
+        "bounds": {
+            "e": "114.0506183",
+            "n": "22.5415623",
+            "s": "22.5412173",
+            "w": "114.0502410"
+        }
+    },
+    {
+        "id": 269950857,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "48",
+            "building:material": "mirror",
+            "height": "219"
+        },
+        "centroid": {
+            "lat": "22.5380953",
+            "lon": "114.0505715"
+        },
+        "bounds": {
+            "e": "114.0508828",
+            "n": "22.5383051",
+            "s": "22.5378900",
+            "w": "114.0503254"
+        }
+    },
+    {
+        "id": 269950865,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "4",
+            "name": "时代金融中心",
+            "name:en": "Times Financial Center",
+            "name:zh": "时代金融中心"
+        },
+        "centroid": {
+            "lat": "22.5406432",
+            "lon": "114.0501360"
+        },
+        "bounds": {
+            "e": "114.0507469",
+            "n": "22.5408809",
+            "s": "22.5404085",
+            "w": "114.0497603"
+        }
+    },
+    {
+        "id": 269953431,
+        "type": "way",
+        "tags": {
+            "building:colour": "grey",
+            "building:levels": "37",
+            "building:material": "mirror",
+            "building:part": "yes",
+            "height": "133"
+        },
+        "centroid": {
+            "lat": "22.5413612",
+            "lon": "114.0492584"
+        },
+        "bounds": {
+            "e": "114.0494259",
+            "n": "22.5415844",
+            "s": "22.5411379",
+            "w": "114.0490910"
+        }
+    },
+    {
+        "id": 269969840,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "1号",
+            "addr:postcode": "518048",
+            "addr:province": "广东省",
+            "addr:street": "中心四路",
+            "building": "commercial",
+            "building:levels": "4",
+            "building:material": "mirror",
+            "name": "3座"
+        },
+        "centroid": {
+            "lat": "22.5379642",
+            "lon": "114.0520551"
+        },
+        "bounds": {
+            "e": "114.0524856",
+            "n": "22.5381846",
+            "s": "22.5377426",
+            "w": "114.0516359"
+        }
+    },
+    {
+        "id": 269974959,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "23",
+            "building:material": "mirror",
+            "height": "100",
+            "name": "2座"
+        },
+        "centroid": {
+            "lat": "22.5379638",
+            "lon": "114.0529627"
+        },
+        "bounds": {
+            "e": "114.0531472",
+            "n": "22.5381494",
+            "s": "22.5377604",
+            "w": "114.0527905"
+        }
+    },
+    {
+        "id": 269974964,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "23",
+            "building:material": "mirror",
+            "height": "100",
+            "name": "1座"
+        },
+        "centroid": {
+            "lat": "22.5386551",
+            "lon": "114.0529317"
+        },
+        "bounds": {
+            "e": "114.0531156",
+            "n": "22.5388441",
+            "s": "22.5384627",
+            "w": "114.0527481"
+        }
+    },
+    {
+        "id": 269974967,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "33",
+            "height": "180"
+        },
+        "centroid": {
+            "lat": "22.5369618",
+            "lon": "114.0586674"
+        },
+        "bounds": {
+            "e": "114.0588945",
+            "n": "22.5371292",
+            "s": "22.5367944",
+            "w": "114.0584403"
+        }
+    },
+    {
+        "id": 269974972,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "1号",
+            "addr:postcode": "518048",
+            "addr:province": "广东省",
+            "addr:street": "中心四路",
+            "building": "commercial",
+            "building:levels": "4",
+            "building:material": "mirror"
+        },
+        "centroid": {
+            "lat": "22.5384122",
+            "lon": "114.0529841"
+        },
+        "bounds": {
+            "e": "114.0531775",
+            "n": "22.5388775",
+            "s": "22.5377222",
+            "w": "114.0527019"
+        }
+    },
+    {
+        "id": 269974974,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "4088号",
+            "addr:postcode": "518048",
+            "addr:province": "广东省",
+            "addr:street": "益田路",
+            "brand": "Shangri-La",
+            "brand:wikidata": "Q837244",
+            "brand:wikipedia": "en:Shangri-La Hotels and Resorts",
+            "brand:zh": "香格里拉",
+            "building": "yes",
+            "building:levels": "4",
+            "building:material": "mirror",
+            "layer": "1",
+            "name": "深圳福田香格里拉大酒店",
+            "name:en": "Futian Shangri-La, Shenzhen",
+            "name:zh": " 深圳福田香格里拉大酒店",
+            "rooms": "528",
+            "stars": "5",
+            "tourism": "hotel"
+        },
+        "centroid": {
+            "lat": "22.5390445",
+            "lon": "114.0519305"
+        },
+        "bounds": {
+            "e": "114.0531615",
+            "n": "22.5392346",
+            "s": "22.5385894",
+            "w": "114.0516140"
+        }
+    },
+    {
+        "id": 269978214,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "50",
+            "height": "200.5"
+        },
+        "centroid": {
+            "lat": "22.5370513",
+            "lon": "114.0575185"
+        },
+        "bounds": {
+            "e": "114.0577053",
+            "n": "22.5372257",
+            "s": "22.5368768",
+            "w": "114.0573317"
+        }
+    },
+    {
+        "id": 270044025,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "2018号",
+            "addr:postcode": "518035",
+            "addr:province": "广东省",
+            "addr:street": "金田路",
+            "building": "commercial",
+            "building:levels": "31",
+            "building:material": "glass",
+            "height": "162",
+            "name": "安联大厦"
+        },
+        "centroid": {
+            "lat": "22.5449762",
+            "lon": "114.0586118"
+        },
+        "bounds": {
+            "e": "114.0587359",
+            "n": "22.5452963",
+            "s": "22.5446543",
+            "w": "114.0583569"
+        }
+    },
+    {
+        "id": 270044901,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "88",
+            "addr:postcode": "518033",
+            "addr:province": "广东省",
+            "addr:street": "福华三路",
+            "building": "commercial",
+            "building:levels": "5",
+            "name": "财富大厦"
+        },
+        "centroid": {
+            "lat": "22.5359782",
+            "lon": "114.0590106"
+        },
+        "bounds": {
+            "e": "114.0592344",
+            "n": "22.5361887",
+            "s": "22.5357244",
+            "w": "114.0584655"
+        }
+    },
+    {
+        "id": 270044910,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "3088号",
+            "addr:postcode": "518054",
+            "addr:province": "广东省",
+            "addr:street": "金田路",
+            "building": "commercial",
+            "building:levels": "43",
+            "building:material": "glass",
+            "height": "200",
+            "name": "中洲大厦"
+        },
+        "centroid": {
+            "lat": "22.5400173",
+            "lon": "114.0586043"
+        },
+        "bounds": {
+            "e": "114.0588081",
+            "n": "22.5402916",
+            "s": "22.5397429",
+            "w": "114.0584003"
+        }
+    },
+    {
+        "id": 304053218,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "6003号",
+            "addr:province": "广东省",
+            "addr:street": "益田路",
+            "building": "commercial",
+            "building:levels": "31",
+            "height": "132",
+            "name": "荣超中心B座"
+        },
+        "centroid": {
+            "lat": "22.5468400",
+            "lon": "114.0503520"
+        },
+        "bounds": {
+            "e": "114.0506521",
+            "n": "22.5469764",
+            "s": "22.5467640",
+            "w": "114.0500990"
+        }
+    },
+    {
+        "id": 345406920,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "3069号",
+            "addr:postcode": "518054",
+            "addr:province": "广东省",
+            "addr:street": "彩田路",
+            "building": "commercial",
+            "building:colour": "#354b4c",
+            "building:levels": "39",
+            "building:material": "glass",
+            "height": "170",
+            "name": "星河世纪大厦",
+            "name:en": "Galaxy Century",
+            "name:zh": "星河世纪大厦"
+        },
+        "centroid": {
+            "lat": "22.5416117",
+            "lon": "114.0621841"
+        },
+        "bounds": {
+            "e": "114.0623502",
+            "n": "22.5418281",
+            "s": "22.5413953",
+            "w": "114.0620179"
+        }
+    },
+    {
+        "id": 345409505,
+        "type": "way",
+        "tags": {
+            "building:colour": "silver",
+            "building:levels": "24",
+            "building:part": "yes",
+            "height": "110",
+            "roof:colour": "#58896b"
+        },
+        "centroid": {
+            "lat": "22.5439225",
+            "lon": "114.0611211"
+        },
+        "bounds": {
+            "e": "114.0615392",
+            "n": "22.5440402",
+            "s": "22.5438047",
+            "w": "114.0607030"
+        }
+    },
+    {
+        "id": 345409507,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "2008号",
+            "addr:postcode": "518035",
+            "addr:province": "广东省",
+            "addr:street": "深南大道",
+            "building": "commercial",
+            "building:levels": "29",
+            "building:material": "mirror",
+            "name": "B座"
+        },
+        "centroid": {
+            "lat": "22.5440126",
+            "lon": "114.0600965"
+        },
+        "bounds": {
+            "e": "114.0602168",
+            "n": "22.5443627",
+            "s": "22.5437337",
+            "w": "114.0600339"
+        }
+    },
+    {
+        "id": 345409508,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "2008号",
+            "addr:postcode": "518035",
+            "addr:province": "广东省",
+            "addr:street": "深南大道",
+            "building": "commercial",
+            "building:levels": "29",
+            "building:material": "mirror",
+            "name": "A座"
+        },
+        "centroid": {
+            "lat": "22.5438307",
+            "lon": "114.0596074"
+        },
+        "bounds": {
+            "e": "114.0598591",
+            "n": "22.5439094",
+            "s": "22.5437260",
+            "w": "114.0592154"
+        }
+    },
+    {
+        "id": 345409509,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "6",
+            "building:material": "mirror",
+            "name": "C座"
+        },
+        "centroid": {
+            "lat": "22.5441311",
+            "lon": "114.0595629"
+        },
+        "bounds": {
+            "e": "114.0598574",
+            "n": "22.5443595",
+            "s": "22.5439930",
+            "w": "114.0592105"
+        }
+    },
+    {
+        "id": 345409510,
+        "type": "way",
+        "tags": {
+            "building:colour": "silver",
+            "building:levels": "5",
+            "building:part": "yes"
+        },
+        "centroid": {
+            "lat": "22.5444598",
+            "lon": "114.0611218"
+        },
+        "bounds": {
+            "e": "114.0615349",
+            "n": "22.5445917",
+            "s": "22.5441946",
+            "w": "114.0607102"
+        }
+    },
+    {
+        "id": 345409512,
+        "type": "way",
+        "tags": {
+            "addr:block": "C座",
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housename": "大中华国际金融中心",
+            "addr:housenumber": "1003号",
+            "addr:province": "广东省",
+            "addr:street": "深南大道",
+            "building": "commercial",
+            "building:levels": "23",
+            "height": "120",
+            "name": "C座",
+            "ref": "C"
+        },
+        "centroid": {
+            "lat": "22.5418516",
+            "lon": "114.0638699"
+        },
+        "bounds": {
+            "e": "114.0641912",
+            "n": "22.5419707",
+            "s": "22.5417325",
+            "w": "114.0635488"
+        }
+    },
+    {
+        "id": 345409513,
+        "type": "way",
+        "tags": {
+            "addr:block": "B座",
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housename": "大中华国际金融中心",
+            "addr:housenumber": "1003号",
+            "addr:province": "广东省",
+            "addr:street": "深南大道",
+            "alt_name": "大中华国际金融中心B座",
+            "brand": "Hilton",
+            "brand:wikidata": "Q598884",
+            "brand:wikipedia": "en:Hilton Hotels & Resorts",
+            "brand:zh": "希尔顿",
+            "building": "yes",
+            "building:levels": "23",
+            "height": "120",
+            "internet_access": "wlan",
+            "internet_access:fee": "no",
+            "name": "深圳大中华希尔顿酒店",
+            "name:en": "Hilton Shenzhen Futian",
+            "name:zh": "深圳大中华希尔顿酒店",
+            "phone": "+86 755 21308888",
+            "ref": "B",
+            "rooms": "320",
+            "stars": "5",
+            "tourism": "hotel",
+            "website": "https://www3.hilton.com/en/hotels/china/hilton-shenzhen-futian-SZXSFHI/index.html"
+        },
+        "centroid": {
+            "lat": "22.5418673",
+            "lon": "114.0648756"
+        },
+        "bounds": {
+            "e": "114.0652552",
+            "n": "22.5419874",
+            "s": "22.5417472",
+            "w": "114.0644961"
+        }
+    },
+    {
+        "id": 345409515,
+        "type": "way",
+        "tags": {
+            "addr:block": "D座",
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housename": "大中华国际金融中心",
+            "addr:housenumber": "1003号",
+            "addr:province": "广东省",
+            "addr:street": "深南大道",
+            "building": "apartments",
+            "building:levels": "30",
+            "height": "120",
+            "name": "D座",
+            "ref": "D"
+        },
+        "centroid": {
+            "lat": "22.5412885",
+            "lon": "114.0634286"
+        },
+        "bounds": {
+            "e": "114.0635539",
+            "n": "22.5415214",
+            "s": "22.5410559",
+            "w": "114.0633033"
+        }
+    },
+    {
+        "id": 456331569,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "184",
+            "addr:postcode": "518038",
+            "addr:province": "广东省",
+            "addr:street": "福中路",
+            "alt_name": "深圳当代艺术馆;深圳城市规划展览馆",
+            "building": "yes",
+            "building:colour": "#eadcd1",
+            "building:levels": "5",
+            "building:material": "concrete",
+            "height": "40",
+            "name": "深圳市当代艺术与城市规划馆",
+            "name:en": "The Museum of Contemporary Art & Planning Exhibition (MOCAPE)",
+            "name:zh": "深圳 市当代艺术与城市规划馆",
+            "roof:colour": "#eadcd1",
+            "roof:material": "concrete",
+            "short_name:en": "MOCAPE",
+            "tourism": "museum",
+            "wikidata": "Q17498976",
+            "wikipedia": "zh:当代艺术与城市规划展览馆 (深圳)"
+        },
+        "centroid": {
+            "lat": "22.5484344",
+            "lon": "114.0563782"
+        },
+        "bounds": {
+            "e": "114.0574497",
+            "n": "22.5492102",
+            "s": "22.5478235",
+            "w": "114.0560034"
+        }
+    },
+    {
+        "id": 529086130,
+        "type": "way",
+        "tags": {
+            "building:levels": "4",
+            "building:part": "commercial"
+        },
+        "centroid": {
+            "lat": "22.5433041",
+            "lon": "114.0404606"
+        },
+        "bounds": {
+            "e": "114.0409549",
+            "n": "22.5434426",
+            "s": "22.5431498",
+            "w": "114.0399572"
+        }
+    },
+    {
+        "id": 529086133,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "1号",
+            "addr:postcode": "518038",
+            "addr:province": "广东省",
+            "addr:street": "鹏程一路",
+            "building": "commercial",
+            "building:levels": "6",
+            "name": "广电大厦"
+        },
+        "centroid": {
+            "lat": "22.5439057",
+            "lon": "114.0460136"
+        },
+        "bounds": {
+            "e": "114.0465058",
+            "n": "22.5445047",
+            "s": "22.5435155",
+            "w": "114.0454152"
+        }
+    },
+    {
+        "id": 529086136,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:colour": "#585b61",
+            "building:levels": "46",
+            "building:material": "glass",
+            "building:min_level": "10",
+            "height": "245.8",
+            "layer": "2",
+            "min_height": "64"
+        },
+        "centroid": {
+            "lat": "22.5442904",
+            "lon": "114.0488190"
+        },
+        "bounds": {
+            "e": "114.0490910",
+            "n": "22.5445476",
+            "s": "22.5440331",
+            "w": "114.0485470"
+        }
+    },
+    {
+        "id": 529086137,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "5999号",
+            "addr:postcode": "518038",
+            "addr:province": "广东省",
+            "addr:street": "益田路",
+            "building": "commercial",
+            "building:levels": "42",
+            "building:material": "mirror",
+            "height": "208",
+            "name": "南方博时基金大厦"
+        },
+        "centroid": {
+            "lat": "22.5437866",
+            "lon": "114.0503241"
+        },
+        "bounds": {
+            "e": "114.0505574",
+            "n": "22.5440010",
+            "s": "22.5435721",
+            "w": "114.0500909"
+        }
+    },
+    {
+        "id": 529086138,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "40",
+            "height": "230",
+            "name": "建设银行大厦"
+        },
+        "centroid": {
+            "lat": "22.5447306",
+            "lon": "114.0472693"
+        },
+        "bounds": {
+            "e": "114.0475196",
+            "n": "22.5449624",
+            "s": "22.5444987",
+            "w": "114.0470190"
+        }
+    },
+    {
+        "id": 529831206,
+        "type": "way",
+        "tags": {
+            "addr:city": "Shenzhen",
+            "addr:district": "Futian",
+            "addr:housenumber": "8",
+            "addr:postcode": "518048",
+            "addr:province": "Guangdong",
+            "addr:street": "Futianxinsha Rd",
+            "building": "apartments",
+            "building:levels": "31",
+            "name": "Golf Garden A"
+        },
+        "centroid": {
+            "lat": "22.5343825",
+            "lon": "114.0411445"
+        },
+        "bounds": {
+            "e": "114.0413500",
+            "n": "22.5345014",
+            "s": "22.5342420",
+            "w": "114.0409477"
+        }
+    },
+    {
+        "id": 535860513,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "5033",
+            "addr:postcode": "518048",
+            "addr:province": "广东省",
+            "addr:street": "益田路",
+            "alt_name": "平安金融中心北塔",
+            "alt_name:en": "Ping An Finance Center North Tower",
+            "alt_name:zh": "平安金融中心北塔",
+            "building": "commercial",
+            "building:colour": "silver",
+            "building:levels": "117",
+            "building:material": "glass",
+            "height": "599.1",
+            "name": "平安金融中心",
+            "name:en": "Ping An Finance Center",
+            "name:zh": "平安金融中心",
+            "roof:colour": "silver",
+            "roof:height": "36.9",
+            "roof:material": "glass",
+            "roof:shape": "pyramidal",
+            "smoking": "no",
+            "start_date": "2017-03",
+            "tourism": "attraction",
+            "wikidata": "Q1077308",
+            "wikipedia": "zh:平安金融中心"
+        },
+        "centroid": {
+            "lat": "22.5369827",
+            "lon": "114.0503630",
+            "type": "entrance"
+        },
+        "bounds": {
+            "e": "114.0507282",
+            "n": "22.5369838",
+            "s": "22.5363025",
+            "w": "114.0499831"
+        }
+    },
+    {
+        "id": 545448762,
+        "type": "way",
+        "tags": {
+            "building:levels": "40",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "177"
+        },
+        "centroid": {
+            "lat": "22.5439252",
+            "lon": "114.0586833"
+        },
+        "bounds": {
+            "e": "114.0589043",
+            "n": "22.5441237",
+            "s": "22.5437266",
+            "w": "114.0584624"
+        }
+    },
+    {
+        "id": 545448764,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "2005号",
+            "addr:postcode": "518035",
+            "addr:province": "广东省",
+            "addr:street": "福中三路",
+            "building": "commercial",
+            "building:levels": "34",
+            "height": "159.7",
+            "name": "国银金融中心大厦"
+        },
+        "centroid": {
+            "lat": "22.5450638",
+            "lon": "114.0594558"
+        },
+        "bounds": {
+            "e": "114.0596524",
+            "n": "22.5452750",
+            "s": "22.5448525",
+            "w": "114.0592593"
+        }
+    },
+    {
+        "id": 545448765,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "2005号",
+            "addr:postcode": "518035",
+            "addr:province": "广东省",
+            "addr:street": "福中三路",
+            "building": "commercial",
+            "building:levels": "22",
+            "height": "109.3",
+            "name": "民生金融大厦"
+        },
+        "centroid": {
+            "lat": "22.5449662",
+            "lon": "114.0600319"
+        },
+        "bounds": {
+            "e": "114.0601788",
+            "n": "22.5452496",
+            "s": "22.5446827",
+            "w": "114.0598849"
+        }
+    },
+    {
+        "id": 546581818,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:colour": "#0372a6",
+            "building:levels": "60",
+            "building:material": "glass",
+            "height": "280",
+            "name": "1号楼",
+            "official_name": "卓越世纪中心1号楼",
+            "ref": "1"
+        },
+        "centroid": {
+            "lat": "22.5348949",
+            "lon": "114.0588252"
+        },
+        "bounds": {
+            "e": "114.0590300",
+            "n": "22.5350711",
+            "s": "22.5347194",
+            "w": "114.0585279"
+        }
+    },
+    {
+        "id": 546581820,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:colour": "#0372a6",
+            "building:levels": "57",
+            "building:material": "glass",
+            "height": "250",
+            "name": "皇岗商务中心",
+            "official_name": "卓越世纪中心2号楼",
+            "ref": "2"
+        },
+        "centroid": {
+            "lat": "22.5339724",
+            "lon": "114.0588253"
+        },
+        "bounds": {
+            "e": "114.0590299",
+            "n": "22.5341483",
+            "s": "22.5337966",
+            "w": "114.0585278"
+        }
+    },
+    {
+        "id": 546581821,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:colour": "#0372a6",
+            "building:levels": "45",
+            "building:material": "glass",
+            "height": "185",
+            "name": "3号楼",
+            "official_name": "卓越世纪中心3号楼"
+        },
+        "centroid": {
+            "lat": "22.5349159",
+            "lon": "114.0597928"
+        },
+        "bounds": {
+            "e": "114.0600313",
+            "n": "22.5350953",
+            "s": "22.5347366",
+            "w": "114.0595543"
+        }
+    },
+    {
+        "id": 546581823,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:colour": "#0372a6",
+            "building:levels": "37",
+            "building:material": "glass",
+            "height": "156",
+            "name": "4号楼",
+            "official_name": "卓越世纪中心4号楼"
+        },
+        "centroid": {
+            "lat": "22.5340152",
+            "lon": "114.0601131"
+        },
+        "bounds": {
+            "e": "114.0602847",
+            "n": "22.5342706",
+            "s": "22.5338286",
+            "w": "114.0597000"
+        }
+    },
+    {
+        "id": 559067029,
+        "type": "way",
+        "tags": {
+            "building": "hospital",
+            "building:levels": "13",
+            "name": "门诊楼 (A楼)"
+        },
+        "centroid": {
+            "lat": "22.5502867",
+            "lon": "114.0498676"
+        },
+        "bounds": {
+            "e": "114.0502858",
+            "n": "22.5506272",
+            "s": "22.5499431",
+            "w": "114.0493298"
+        }
+    },
+    {
+        "id": 559067036,
+        "type": "way",
+        "tags": {
+            "building": "hospital",
+            "building:levels": "13",
+            "name": "住院楼 (B楼)"
+        },
+        "centroid": {
+            "lat": "22.5502492",
+            "lon": "114.0484849"
+        },
+        "bounds": {
+            "e": "114.0489830",
+            "n": "22.5505370",
+            "s": "22.5499216",
+            "w": "114.0479094"
+        }
+    },
+    {
+        "id": 586140646,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "319",
+            "addr:postcode": "518026",
+            "addr:province": "广东省",
+            "addr:street": "福华路",
+            "building": "commercial",
+            "building:levels": "30",
+            "name": "兆邦基金融大厦"
+        },
+        "centroid": {
+            "lat": "22.5370241",
+            "lon": "114.0624326"
+        },
+        "bounds": {
+            "e": "114.0625731",
+            "n": "22.5372503",
+            "s": "22.5367978",
+            "w": "114.0622920"
+        }
+    },
+    {
+        "id": 612995514,
+        "type": "way",
+        "tags": {
+            "building": "yes",
+            "building:levels": "30",
+            "name": "中深花園"
+        },
+        "centroid": {
+            "lat": "22.5343386",
+            "lon": "114.0636596"
+        },
+        "bounds": {
+            "e": "114.0639205",
+            "n": "22.5347169",
+            "s": "22.5339599",
+            "w": "114.0634014"
+        }
+    },
+    {
+        "id": 612997284,
+        "type": "way",
+        "tags": {
+            "building:levels": "65",
+            "building:material": "mirror",
+            "building:part": "commercial",
+            "height": "253.6"
+        },
+        "centroid": {
+            "lat": "22.5380242",
+            "lon": "114.0586283"
+        },
+        "bounds": {
+            "e": "114.0588467",
+            "n": "22.5382338",
+            "s": "22.5378145",
+            "w": "114.0584100"
+        }
+    },
+    {
+        "id": 612997286,
+        "type": "way",
+        "tags": {
+            "building": "construction",
+            "building:levels": "80",
+            "building:material": "mirror",
+            "height": "375.6",
+            "name": "大百汇中心",
+            "name:zh": "大百汇中心",
+            "old_name": "深圳中心",
+            "old_name:en": "Shenzhen Center",
+            "old_name:zh": "深圳中心"
+        },
+        "centroid": {
+            "lat": "22.5391494",
+            "lon": "114.0586594"
+        },
+        "bounds": {
+            "e": "114.0588937",
+            "n": "22.5393819",
+            "s": "22.5389035",
+            "w": "114.0584302"
+        }
+    },
+    {
+        "id": 617162821,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "35",
+            "building:material": "mirror",
+            "height": "178.9"
+        },
+        "centroid": {
+            "lat": "22.5435947",
+            "lon": "114.0473702"
+        },
+        "bounds": {
+            "e": "114.0476045",
+            "n": "22.5438124",
+            "s": "22.5433769",
+            "w": "114.0471359"
+        }
+    },
+    {
+        "id": 617162822,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "53",
+            "height": "238"
+        },
+        "centroid": {
+            "lat": "22.5479092",
+            "lon": "114.0503964"
+        },
+        "bounds": {
+            "e": "114.0506493",
+            "n": "22.5480572",
+            "s": "22.5477752",
+            "w": "114.0500386"
+        }
+    },
+    {
+        "id": 617162830,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "53",
+            "height": "208",
+            "name": "江苏大厦"
+        },
+        "centroid": {
+            "lat": "22.5488555",
+            "lon": "114.0504862"
+        },
+        "bounds": {
+            "e": "114.0507742",
+            "n": "22.5490217",
+            "s": "22.5486452",
+            "w": "114.0503317"
+        }
+    },
+    {
+        "id": 617162831,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "14"
+        },
+        "centroid": {
+            "lat": "22.5490246",
+            "lon": "114.0502286"
+        },
+        "bounds": {
+            "e": "114.0505204",
+            "n": "22.5491816",
+            "s": "22.5488981",
+            "w": "114.0499896"
+        }
+    },
+    {
+        "id": 617162833,
+        "type": "way",
+        "tags": {
+            "building:levels": "48",
+            "building:material": "mirror",
+            "building:part": "yes",
+            "height": "219"
+        },
+        "centroid": {
+            "lat": "22.5489394",
+            "lon": "114.0585571"
+        },
+        "bounds": {
+            "e": "114.0587731",
+            "n": "22.5492438",
+            "s": "22.5486350",
+            "w": "114.0583411"
+        }
+    },
+    {
+        "id": 702183064,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:province": "广东省",
+            "addr:street": "彩田路",
+            "area": "yes",
+            "building": "residential",
+            "building:levels": "0",
+            "layer": "1"
+        },
+        "centroid": {
+            "lat": "22.5413780",
+            "lon": "114.0638156"
+        },
+        "bounds": {
+            "e": "114.0639788",
+            "n": "22.5414782",
+            "s": "22.5412718",
+            "w": "114.0637306"
+        }
+    },
+    {
+        "id": 702185238,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "1980",
+            "addr:postcode": "518000",
+            "addr:province": "广东省",
+            "addr:street": "彩田路",
+            "building": "residential",
+            "building:levels": "4",
+            "layer": "1",
+            "name": "城上绿云屋顶花园"
+        },
+        "centroid": {
+            "lat": "22.5410276",
+            "lon": "114.0638325"
+        },
+        "bounds": {
+            "e": "114.0639129",
+            "n": "22.5411048",
+            "s": "22.5409483",
+            "w": "114.0637507"
+        }
+    },
+    {
+        "id": 773719239,
+        "type": "way",
+        "tags": {
+            "building": "yes",
+            "building:levels": "11",
+            "height": "55",
+            "name": "PAFC Mall",
+            "name:en": "PAFC Mall",
+            "name:zh": "平安金融中心商场",
+            "shop": "mall"
+        },
+        "centroid": {
+            "lat": "22.5359333",
+            "lon": "114.0501987",
+            "type": "entrance"
+        },
+        "bounds": {
+            "e": "114.0509014",
+            "n": "22.5363047",
+            "s": "22.5354300",
+            "w": "114.0501496"
+        }
+    },
+    {
+        "id": 773719241,
+        "type": "way",
+        "tags": {
+            "building": "retail",
+            "building:levels": "11",
+            "building:min_level": "3",
+            "height": "55",
+            "layer": "1",
+            "min_height": "15"
+        },
+        "centroid": {
+            "lat": "22.5353824",
+            "lon": "114.0506055"
+        },
+        "bounds": {
+            "e": "114.0508425",
+            "n": "22.5356424",
+            "s": "22.5350908",
+            "w": "114.0503484"
+        }
+    },
+    {
+        "id": 773719242,
+        "type": "way",
+        "tags": {
+            "building": "yes",
+            "building:levels": "11",
+            "height": "55",
+            "shop": "mall"
+        },
+        "centroid": {
+            "lat": "22.5348432",
+            "lon": "114.0505294"
+        },
+        "bounds": {
+            "e": "114.0509576",
+            "n": "22.5351987",
+            "s": "22.5344011",
+            "w": "114.0502054"
+        }
+    },
+    {
+        "id": 774640911,
+        "type": "way",
+        "tags": {
+            "building:levels": "44",
+            "building:part": "commercial"
+        },
+        "centroid": {
+            "lat": "22.5434707",
+            "lon": "114.0406996"
+        },
+        "bounds": {
+            "e": "114.0407875",
+            "n": "22.5435362",
+            "s": "22.5434051",
+            "w": "114.0405921"
+        }
+    },
+    {
+        "id": 774640912,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "7"
+        },
+        "centroid": {
+            "lat": "22.5440676",
+            "lon": "114.0403157"
+        },
+        "bounds": {
+            "e": "114.0406839",
+            "n": "22.5442473",
+            "s": "22.5438880",
+            "w": "114.0399475"
+        }
+    },
+    {
+        "id": 775171563,
+        "type": "way",
+        "tags": {
+            "building:levels": "49",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "266",
+            "roof:colour": "grey"
+        },
+        "centroid": {
+            "lat": "22.5347329",
+            "lon": "114.0507867"
+        },
+        "bounds": {
+            "e": "114.0509573",
+            "n": "22.5348904",
+            "s": "22.5345753",
+            "w": "114.0506161"
+        }
+    },
+    {
+        "id": 775171564,
+        "type": "way",
+        "tags": {
+            "building:levels": "35",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "196",
+            "roof:colour": "grey"
+        },
+        "centroid": {
+            "lat": "22.5348940",
+            "lon": "114.0506147"
+        },
+        "bounds": {
+            "e": "114.0507832",
+            "n": "22.5350496",
+            "s": "22.5347384",
+            "w": "114.0504463"
+        }
+    },
+    {
+        "id": 775171565,
+        "type": "way",
+        "tags": {
+            "building:levels": "51",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "289",
+            "roof:colour": "grey"
+        },
+        "centroid": {
+            "lat": "22.5345512",
+            "lon": "114.0506126"
+        },
+        "bounds": {
+            "e": "114.0507902",
+            "n": "22.5347384",
+            "s": "22.5344188",
+            "w": "114.0504443"
+        }
+    },
+    {
+        "id": 775171566,
+        "type": "way",
+        "tags": {
+            "building:levels": "49",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "266",
+            "roof:colour": "grey"
+        },
+        "centroid": {
+            "lat": "22.5347397",
+            "lon": "114.0504453"
+        },
+        "bounds": {
+            "e": "114.0506161",
+            "n": "22.5348975",
+            "s": "22.5345819",
+            "w": "114.0502745"
+        }
+    },
+    {
+        "id": 775171644,
+        "type": "way",
+        "tags": {
+            "building": "retail",
+            "building:levels": "3"
+        },
+        "centroid": {
+            "lat": "22.5362236",
+            "lon": "114.0487492"
+        },
+        "bounds": {
+            "e": "114.0488338",
+            "n": "22.5363120",
+            "s": "22.5361392",
+            "w": "114.0486617"
+        }
+    },
+    {
+        "id": 776141677,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:colour": "#0f1a1c",
+            "building:levels": "42",
+            "height": "195"
+        },
+        "centroid": {
+            "lat": "22.5390028",
+            "lon": "114.0569157"
+        },
+        "bounds": {
+            "e": "114.0575987",
+            "n": "22.5392775",
+            "s": "22.5387644",
+            "w": "114.0562592"
+        }
+    },
+    {
+        "id": 776141678,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:colour": "#0f1a1c",
+            "building:levels": "30"
+        },
+        "centroid": {
+            "lat": "22.5383351",
+            "lon": "114.0565134"
+        },
+        "bounds": {
+            "e": "114.0567695",
+            "n": "22.5385511",
+            "s": "22.5381373",
+            "w": "114.0562673"
+        }
+    },
+    {
+        "id": 776141679,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:colour": "#0f1a1c",
+            "building:levels": "30"
+        },
+        "centroid": {
+            "lat": "22.5383487",
+            "lon": "114.0573640"
+        },
+        "bounds": {
+            "e": "114.0576062",
+            "n": "22.5385742",
+            "s": "22.5381461",
+            "w": "114.0571151"
+        }
+    },
+    {
+        "id": 776141681,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "48",
+            "height": "230.9"
+        },
+        "centroid": {
+            "lat": "22.5360780",
+            "lon": "114.0575651"
+        },
+        "bounds": {
+            "e": "114.0577516",
+            "n": "22.5363561",
+            "s": "22.5357999",
+            "w": "114.0573785"
+        }
+    },
+    {
+        "id": 776141682,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "22",
+            "building:material": "mirror"
+        },
+        "centroid": {
+            "lat": "22.5380214",
+            "lon": "114.0498513"
+        },
+        "bounds": {
+            "e": "114.0500036",
+            "n": "22.5382963",
+            "s": "22.5377464",
+            "w": "114.0496990"
+        }
+    },
+    {
+        "id": 776141683,
+        "type": "way",
+        "tags": {
+            "building": "hotel",
+            "building:levels": "28",
+            "building:material": "glass",
+            "height": "100"
+        },
+        "centroid": {
+            "lat": "22.5359793",
+            "lon": "114.0565177"
+        },
+        "bounds": {
+            "e": "114.0567172",
+            "n": "22.5361679",
+            "s": "22.5357173",
+            "w": "114.0561593"
+        }
+    },
+    {
+        "id": 776141684,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "28",
+            "building:material": "glass",
+            "height": "100"
+        },
+        "centroid": {
+            "lat": "22.5370102",
+            "lon": "114.0564218"
+        },
+        "bounds": {
+            "e": "114.0567014",
+            "n": "22.5372091",
+            "s": "22.5368102",
+            "w": "114.0561422"
+        }
+    },
+    {
+        "id": 776141685,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "2007号",
+            "addr:postcode": "518054",
+            "addr:province": "广东省",
+            "addr:street": "深南大道",
+            "building": "commercial",
+            "building:colour": "white",
+            "building:levels": "33",
+            "building:material": "concrete",
+            "height": "168.9",
+            "name": "金地中心",
+            "name:en": "Golden Land Center",
+            "name:zh": "金地中心"
+        },
+        "centroid": {
+            "lat": "22.5414584",
+            "lon": "114.0587315"
+        },
+        "bounds": {
+            "e": "114.0589742",
+            "n": "22.5416779",
+            "s": "22.5412388",
+            "w": "114.0584888"
+        }
+    },
+    {
+        "id": 776141688,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "54",
+            "height": "218"
+        },
+        "centroid": {
+            "lat": "22.5360398",
+            "lon": "114.0587073"
+        },
+        "bounds": {
+            "e": "114.0590887",
+            "n": "22.5361887",
+            "s": "22.5359356",
+            "w": "114.0584655"
+        }
+    },
+    {
+        "id": 776141689,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "40"
+        },
+        "centroid": {
+            "lat": "22.5359689",
+            "lon": "114.0586466"
+        },
+        "bounds": {
+            "e": "114.0587801",
+            "n": "22.5360295",
+            "s": "22.5359315",
+            "w": "114.0585569"
+        }
+    },
+    {
+        "id": 776141690,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "40"
+        },
+        "centroid": {
+            "lat": "22.5360146",
+            "lon": "114.0591695"
+        },
+        "bounds": {
+            "e": "114.0592341",
+            "n": "22.5360715",
+            "s": "22.5359413",
+            "w": "114.0590859"
+        }
+    },
+    {
+        "id": 776141693,
+        "type": "way",
+        "tags": {
+            "building": "retail",
+            "building:levels": "5",
+            "name": "卓悦中心西区",
+            "name:en": "One Avenue West",
+            "name:zh": "卓悦中心西区"
+        },
+        "centroid": {
+            "lat": "22.5387433",
+            "lon": "114.0597559"
+        },
+        "bounds": {
+            "e": "114.0601836",
+            "n": "22.5394496",
+            "s": "22.5378215",
+            "w": "114.0590840"
+        }
+    },
+    {
+        "id": 776141694,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "35"
+        },
+        "centroid": {
+            "lat": "22.5390188",
+            "lon": "114.0593170"
+        },
+        "bounds": {
+            "e": "114.0595407",
+            "n": "22.5390984",
+            "s": "22.5389068",
+            "w": "114.0590957"
+        }
+    },
+    {
+        "id": 776141708,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "26",
+            "name": "丰立大厦"
+        },
+        "centroid": {
+            "lat": "22.5389722",
+            "lon": "114.0504508"
+        },
+        "bounds": {
+            "e": "114.0506697",
+            "n": "22.5391315",
+            "s": "22.5388093",
+            "w": "114.0502249"
+        }
+    },
+    {
+        "id": 776141709,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "5"
+        },
+        "centroid": {
+            "lat": "22.5389226",
+            "lon": "114.0500733"
+        },
+        "bounds": {
+            "e": "114.0501856",
+            "n": "22.5390875",
+            "s": "22.5386242",
+            "w": "114.0499613"
+        }
+    },
+    {
+        "id": 776141711,
+        "type": "way",
+        "tags": {
+            "building": "yes",
+            "building:levels": "4",
+            "name": "卓越 Intown",
+            "shop": "mall"
+        },
+        "centroid": {
+            "lat": "22.5343293",
+            "lon": "114.0597557"
+        },
+        "bounds": {
+            "e": "114.0603638",
+            "n": "22.5350978",
+            "s": "22.5337471",
+            "w": "114.0592548"
+        }
+    },
+    {
+        "id": 776182780,
+        "type": "way",
+        "tags": {
+            "building:colour": "#3d6d71",
+            "building:levels": "6",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "31",
+            "roof:colour": "#3d6d71",
+            "roof:material": "glass"
+        },
+        "centroid": {
+            "lat": "22.5502713",
+            "lon": "114.0566619"
+        },
+        "bounds": {
+            "e": "114.0569032",
+            "n": "22.5504837",
+            "s": "22.5500292",
+            "w": "114.0564130"
+        }
+    },
+    {
+        "id": 776182826,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:colour": "#585b61",
+            "building:levels": "6",
+            "building:material": "glass",
+            "height": "36"
+        },
+        "centroid": {
+            "lat": "22.5439502",
+            "lon": "114.0488326",
+            "type": "entrance"
+        },
+        "bounds": {
+            "e": "114.0493061",
+            "n": "22.5446397",
+            "s": "22.5439442",
+            "w": "114.0483306"
+        }
+    },
+    {
+        "id": 776182829,
+        "type": "way",
+        "tags": {
+            "building": "yes",
+            "building:levels": "1"
+        },
+        "centroid": {
+            "lat": "22.5439502",
+            "lon": "114.0488326",
+            "type": "entrance"
+        },
+        "bounds": {
+            "e": "114.0491110",
+            "n": "22.5448049",
+            "s": "22.5435921",
+            "w": "114.0479922"
+        }
+    },
+    {
+        "id": 776182834,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:levels": "26"
+        },
+        "centroid": {
+            "lat": "22.5443522",
+            "lon": "114.0457416"
+        },
+        "bounds": {
+            "e": "114.0459593",
+            "n": "22.5445047",
+            "s": "22.5441946",
+            "w": "114.0454152"
+        }
+    },
+    {
+        "id": 776182836,
+        "type": "way",
+        "tags": {
+            "building": "construction",
+            "building:levels": "43",
+            "height": "202",
+            "name": "深圳广电集团网络科技信息大厦"
+        },
+        "centroid": {
+            "lat": "22.5448675",
+            "lon": "114.0455216"
+        },
+        "bounds": {
+            "e": "114.0457996",
+            "n": "22.5450967",
+            "s": "22.5446384",
+            "w": "114.0452436"
+        }
+    },
+    {
+        "id": 776897365,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "2026",
+            "addr:postcode": "518031",
+            "addr:province": "广东省",
+            "addr:street": "金田路",
+            "building": "commercial",
+            "building:colour": "silver",
+            "building:levels": "43",
+            "building:material": "glass",
+            "height": "219.1",
+            "name": "北塔",
+            "name:en": "North Tower",
+            "name:zh": "北塔"
+        },
+        "centroid": {
+            "lat": "22.5330733",
+            "lon": "114.0587405"
+        },
+        "bounds": {
+            "e": "114.0589125",
+            "n": "22.5333285",
+            "s": "22.5328180",
+            "w": "114.0585684"
+        }
+    },
+    {
+        "id": 776897366,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "2026",
+            "addr:postcode": "518031",
+            "addr:province": "广东省",
+            "addr:street": "金田路",
+            "building": "commercial",
+            "building:colour": "silver",
+            "building:levels": "20",
+            "building:material": "glass",
+            "height": "111.3",
+            "name": "南塔",
+            "name:en": "South Tower",
+            "name:zh": "南塔"
+        },
+        "centroid": {
+            "lat": "22.5322947",
+            "lon": "114.0587767"
+        },
+        "bounds": {
+            "e": "114.0589256",
+            "n": "22.5325356",
+            "s": "22.5320538",
+            "w": "114.0586277"
+        }
+    },
+    {
+        "id": 776897367,
+        "type": "way",
+        "tags": {
+            "building": "commercial",
+            "building:colour": "silver",
+            "building:levels": "9",
+            "building:material": "glass",
+            "height": "50"
+        },
+        "centroid": {
+            "lat": "22.5326770",
+            "lon": "114.0587587"
+        },
+        "bounds": {
+            "e": "114.0589174",
+            "n": "22.5328229",
+            "s": "22.5325313",
+            "w": "114.0585771"
+        }
+    },
+    {
+        "id": 776898831,
+        "type": "way",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "2009",
+            "addr:postcode": "518026",
+            "addr:province": "广东省",
+            "addr:street": "彩田路",
+            "building": "commercial",
+            "building:levels": "33",
+            "height": "150.5",
+            "name": "瀚森大厦"
+        },
+        "centroid": {
+            "lat": "22.5364009",
+            "lon": "114.0624210"
+        },
+        "bounds": {
+            "e": "114.0625811",
+            "n": "22.5367136",
+            "s": "22.5361146",
+            "w": "114.0622976"
+        }
+    },
+    {
+        "id": 780197214,
+        "type": "way",
+        "tags": {
+            "building:levels": "6",
+            "building:part": "yes",
+            "height": "60",
+            "roof:colour": "#fefcf2",
+            "roof:material": "metal"
+        },
+        "centroid": {
+            "lat": "22.5335111",
+            "lon": "114.0547351"
+        },
+        "bounds": {
+            "e": "114.0564946",
+            "n": "22.5337897",
+            "s": "22.5332328",
+            "w": "114.0529756"
+        }
+    },
+    {
+        "id": 780500980,
+        "type": "way",
+        "tags": {
+            "building:colour": "#228aa0",
+            "building:levels": "24",
+            "building:material": "mirror",
+            "building:part": "yes",
+            "height": "110"
+        },
+        "centroid": {
+            "lat": "22.5412994",
+            "lon": "114.0484834"
+        },
+        "bounds": {
+            "e": "114.0486755",
+            "n": "22.5413970",
+            "s": "22.5410898",
+            "w": "114.0482617"
+        }
+    },
+    {
+        "id": 780500981,
+        "type": "way",
+        "tags": {
+            "building:colour": "#228aa0",
+            "building:levels": "20",
+            "building:material": "mirror",
+            "building:part": "yes",
+            "height": "92"
+        },
+        "centroid": {
+            "lat": "22.5412476",
+            "lon": "114.0487753"
+        },
+        "bounds": {
+            "e": "114.0488439",
+            "n": "22.5413587",
+            "s": "22.5411253",
+            "w": "114.0486722"
+        }
+    },
+    {
+        "id": 780500982,
+        "type": "way",
+        "tags": {
+            "building:colour": "#228aa0",
+            "building:levels": "20",
+            "building:material": "mirror",
+            "building:part": "yes",
+            "height": "92"
+        },
+        "centroid": {
+            "lat": "22.5412396",
+            "lon": "114.0481666"
+        },
+        "bounds": {
+            "e": "114.0482648",
+            "n": "22.5413525",
+            "s": "22.5411191",
+            "w": "114.0480997"
+        }
+    },
+    {
+        "id": 780536852,
+        "type": "way",
+        "tags": {
+            "building:colour": "silver",
+            "building:levels": "0",
+            "building:material": "metal",
+            "building:part": "yes",
+            "height": "13.6",
+            "roof:colour": "silver",
+            "roof:height": "13.6",
+            "roof:levels": "1",
+            "roof:material": "metal",
+            "roof:shape": "dome"
+        },
+        "centroid": {
+            "lat": "22.5506672",
+            "lon": "114.0563724"
+        },
+        "bounds": {
+            "e": "114.0565040",
+            "n": "22.5507873",
+            "s": "22.5505405",
+            "w": "114.0562383"
+        }
+    },
+    {
+        "id": 780536853,
+        "type": "way",
+        "tags": {
+            "building:colour": "#3d6d71",
+            "building:levels": "3",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "23.6",
+            "roof:colour": "#3d6d71",
+            "roof:direction": "270",
+            "roof:height": "4.9",
+            "roof:levels": "1",
+            "roof:material": "glass",
+            "roof:shape": "skillion"
+        },
+        "centroid": {
+            "lat": "22.5499252",
+            "lon": "114.0567105"
+        },
+        "bounds": {
+            "e": "114.0567702",
+            "n": "22.5500525",
+            "s": "22.5497541",
+            "w": "114.0566508"
+        }
+    },
+    {
+        "id": 780536854,
+        "type": "way",
+        "tags": {
+            "building:colour": "#cebeae",
+            "building:levels": "4",
+            "building:material": "concrete",
+            "building:part": "yes",
+            "height": "40",
+            "roof:colour": "#cebeae",
+            "roof:direction": "270",
+            "roof:height": "16.4",
+            "roof:levels": "2",
+            "roof:material": "concrete",
+            "roof:shape": "skillion"
+        },
+        "centroid": {
+            "lat": "22.5501745",
+            "lon": "114.0569656"
+        },
+        "bounds": {
+            "e": "114.0573482",
+            "n": "22.5507930",
+            "s": "22.5497557",
+            "w": "114.0567661"
+        }
+    },
+    {
+        "id": 780536856,
+        "type": "way",
+        "tags": {
+            "building:colour": "#3d6d71",
+            "building:levels": "4",
+            "building:material": "glass",
+            "building:part": "yes",
+            "roof:colour": "#3d6d71"
+        },
+        "centroid": {
+            "lat": "22.5505025",
+            "lon": "114.0568839"
+        },
+        "bounds": {
+            "e": "114.0569732",
+            "n": "22.5505858",
+            "s": "22.5504207",
+            "w": "114.0567931"
+        }
+    },
+    {
+        "id": 780536860,
+        "type": "way",
+        "tags": {
+            "building:colour": "#cebeae",
+            "building:levels": "4",
+            "building:material": "concrete",
+            "building:part": "yes",
+            "height": "37",
+            "roof:colour": "#8b8877",
+            "roof:material": "concrete"
+        },
+        "centroid": {
+            "lat": "22.5499776",
+            "lon": "114.0572265"
+        },
+        "bounds": {
+            "e": "114.0573552",
+            "n": "22.5501948",
+            "s": "22.5497604",
+            "w": "114.0570978"
+        }
+    },
+    {
+        "id": 781193982,
+        "type": "way",
+        "tags": {
+            "building:levels": "23",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "120",
+            "roof:material": "concrete"
+        },
+        "centroid": {
+            "lat": "22.5418673",
+            "lon": "114.0648756"
+        },
+        "bounds": {
+            "e": "114.0652491",
+            "n": "22.5419873",
+            "s": "22.5417473",
+            "w": "114.0645021"
+        }
+    },
+    {
+        "id": 781193983,
+        "type": "way",
+        "tags": {
+            "building:levels": "23",
+            "building:material": "concrete",
+            "building:min_level": "4",
+            "building:part": "yes",
+            "height": "120",
+            "roof:material": "concrete"
+        },
+        "centroid": {
+            "lat": "22.5418615",
+            "lon": "114.0645012"
+        },
+        "bounds": {
+            "e": "114.0645063",
+            "n": "22.5419757",
+            "s": "22.5417472",
+            "w": "114.0644961"
+        }
+    },
+    {
+        "id": 781193985,
+        "type": "way",
+        "tags": {
+            "building:levels": "23",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "120",
+            "roof:material": "concrete"
+        },
+        "centroid": {
+            "lat": "22.5418516",
+            "lon": "114.0638697"
+        },
+        "bounds": {
+            "e": "114.0641858",
+            "n": "22.5419706",
+            "s": "22.5417326",
+            "w": "114.0635536"
+        }
+    },
+    {
+        "id": 781193986,
+        "type": "way",
+        "tags": {
+            "building:levels": "23",
+            "building:material": "concrete",
+            "building:min_level": "4",
+            "building:part": "yes",
+            "height": "120",
+            "roof:material": "concrete"
+        },
+        "centroid": {
+            "lat": "22.5418467",
+            "lon": "114.0635533"
+        },
+        "bounds": {
+            "e": "114.0635578",
+            "n": "22.5419609",
+            "s": "22.5417325",
+            "w": "114.0635488"
+        }
+    },
+    {
+        "id": 781193987,
+        "type": "way",
+        "tags": {
+            "building:levels": "23",
+            "building:material": "concrete",
+            "building:min_level": "4",
+            "building:part": "yes",
+            "height": "120",
+            "roof:material": "concrete"
+        },
+        "centroid": {
+            "lat": "22.5418565",
+            "lon": "114.0641864"
+        },
+        "bounds": {
+            "e": "114.0641912",
+            "n": "22.5419707",
+            "s": "22.5417423",
+            "w": "114.0641816"
+        }
+    },
+    {
+        "id": 781193988,
+        "type": "way",
+        "tags": {
+            "building:levels": "23",
+            "building:material": "concrete",
+            "building:min_level": "4",
+            "building:part": "yes",
+            "height": "120",
+            "roof:material": "concrete"
+        },
+        "centroid": {
+            "lat": "22.5410628",
+            "lon": "114.0634178"
+        },
+        "bounds": {
+            "e": "114.0635322",
+            "n": "22.5410697",
+            "s": "22.5410559",
+            "w": "114.0633033"
+        }
+    },
+    {
+        "id": 781193989,
+        "type": "way",
+        "tags": {
+            "building:levels": "23",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "120",
+            "roof:material": "concrete"
+        },
+        "centroid": {
+            "lat": "22.5412881",
+            "lon": "114.0634286"
+        },
+        "bounds": {
+            "e": "114.0635536",
+            "n": "22.5415159",
+            "s": "22.5410604",
+            "w": "114.0633035"
+        }
+    },
+    {
+        "id": 781193990,
+        "type": "way",
+        "tags": {
+            "building:levels": "23",
+            "building:material": "concrete",
+            "building:min_level": "4",
+            "building:part": "yes",
+            "height": "120",
+            "roof:material": "concrete"
+        },
+        "centroid": {
+            "lat": "22.5415140",
+            "lon": "114.0634394"
+        },
+        "bounds": {
+            "e": "114.0635539",
+            "n": "22.5415214",
+            "s": "22.5415065",
+            "w": "114.0633250"
+        }
+    },
+    {
+        "id": 781271949,
+        "type": "way",
+        "tags": {
+            "building:levels": "5",
+            "building:part": "yes"
+        },
+        "centroid": {
+            "lat": "22.5440571",
+            "lon": "114.0611205"
+        },
+        "bounds": {
+            "e": "114.0612748",
+            "n": "22.5440701",
+            "s": "22.5440330",
+            "w": "114.0609662"
+        }
+    },
+    {
+        "id": 781271950,
+        "type": "way",
+        "tags": {
+            "building:levels": "5",
+            "building:min_level": "2",
+            "building:part": "yes"
+        },
+        "centroid": {
+            "lat": "22.5441344",
+            "lon": "114.0611196"
+        },
+        "bounds": {
+            "e": "114.0611634",
+            "n": "22.5442013",
+            "s": "22.5440675",
+            "w": "114.0610757"
+        }
+    },
+    {
+        "id": 781271951,
+        "type": "way",
+        "tags": {
+            "building:colour": "#56545a",
+            "building:levels": "39",
+            "building:material": "metal",
+            "building:part": "yes",
+            "height": "177",
+            "roof:colour": "#56545a"
+        },
+        "centroid": {
+            "lat": "22.5440302",
+            "lon": "114.0620285"
+        },
+        "bounds": {
+            "e": "114.0621935",
+            "n": "22.5443166",
+            "s": "22.5437439",
+            "w": "114.0618634"
+        }
+    },
+    {
+        "id": 781271952,
+        "type": "way",
+        "tags": {
+            "building:colour": "#56545a",
+            "building:levels": "24",
+            "building:material": "metal",
+            "building:part": "yes",
+            "height": "108",
+            "roof:colour": "#56545a"
+        },
+        "centroid": {
+            "lat": "22.5450663",
+            "lon": "114.0621311"
+        },
+        "bounds": {
+            "e": "114.0622975",
+            "n": "22.5453568",
+            "s": "22.5447758",
+            "w": "114.0619647"
+        }
+    },
+    {
+        "id": 781271953,
+        "type": "way",
+        "tags": {
+            "building:colour": "#56545a",
+            "building:levels": "4",
+            "building:material": "metal",
+            "building:part": "yes",
+            "height": "25",
+            "roof:colour": "#56545a"
+        },
+        "centroid": {
+            "lat": "22.5444203",
+            "lon": "114.0620249"
+        },
+        "bounds": {
+            "e": "114.0621884",
+            "n": "22.5445266",
+            "s": "22.5443139",
+            "w": "114.0618615"
+        }
+    },
+    {
+        "id": 781271954,
+        "type": "way",
+        "tags": {
+            "building:colour": "#56545a",
+            "building:levels": "24",
+            "building:material": "metal",
+            "building:min_level": "8",
+            "building:part": "yes",
+            "height": "108",
+            "min_height": "38",
+            "roof:colour": "#56545a"
+        },
+        "centroid": {
+            "lat": "22.5447049",
+            "lon": "114.0621379"
+        },
+        "bounds": {
+            "e": "114.0623003",
+            "n": "22.5447810",
+            "s": "22.5446288",
+            "w": "114.0619755"
+        }
+    },
+    {
+        "id": 781271955,
+        "type": "way",
+        "tags": {
+            "building:colour": "#56545a",
+            "building:levels": "4",
+            "building:material": "metal",
+            "building:part": "yes",
+            "height": "25",
+            "roof:colour": "#56545a"
+        },
+        "centroid": {
+            "lat": "22.5450629",
+            "lon": "114.0619232"
+        },
+        "bounds": {
+            "e": "114.0619755",
+            "n": "22.5453516",
+            "s": "22.5447741",
+            "w": "114.0618708"
+        }
+    },
+    {
+        "id": 781271956,
+        "type": "way",
+        "tags": {
+            "building:levels": "8",
+            "building:part": "yes"
+        },
+        "centroid": {
+            "lat": "22.5438669",
+            "lon": "114.0607399"
+        },
+        "bounds": {
+            "e": "114.0608633",
+            "n": "22.5440296",
+            "s": "22.5437644",
+            "w": "114.0606501"
+        }
+    },
+    {
+        "id": 781271957,
+        "type": "way",
+        "tags": {
+            "building:levels": "8",
+            "building:part": "yes"
+        },
+        "centroid": {
+            "lat": "22.5438767",
+            "lon": "114.0615050"
+        },
+        "bounds": {
+            "e": "114.0615944",
+            "n": "22.5440409",
+            "s": "22.5437738",
+            "w": "114.0613848"
+        }
+    },
+    {
+        "id": 781447558,
+        "type": "way",
+        "tags": {
+            "building:levels": "4",
+            "building:part": "yes"
+        },
+        "centroid": {
+            "lat": "22.5413405",
+            "lon": "114.0484707"
+        },
+        "bounds": {
+            "e": "114.0488681",
+            "n": "22.5414933",
+            "s": "22.5411123",
+            "w": "114.0480800"
+        }
+    },
+    {
+        "id": 781536965,
+        "type": "way",
+        "tags": {
+            "building:levels": "3",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "10"
+        },
+        "centroid": {
+            "lat": "22.5458690",
+            "lon": "114.0560089",
+            "type": "entrance"
+        },
+        "bounds": {
+            "e": "114.0561412",
+            "n": "22.5460893",
+            "s": "22.5458414",
+            "w": "114.0556154"
+        }
+    },
+    {
+        "id": 781536966,
+        "type": "way",
+        "tags": {
+            "building:levels": "3",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "10"
+        },
+        "centroid": {
+            "lat": "22.5457941",
+            "lon": "114.0566180"
+        },
+        "bounds": {
+            "e": "114.0568719",
+            "n": "22.5459587",
+            "s": "22.5456211",
+            "w": "114.0563634"
+        }
+    },
+    {
+        "id": 781536968,
+        "type": "way",
+        "tags": {
+            "building:levels": "5",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "19"
+        },
+        "centroid": {
+            "lat": "22.5468482",
+            "lon": "114.0566111"
+        },
+        "bounds": {
+            "e": "114.0568588",
+            "n": "22.5469205",
+            "s": "22.5467759",
+            "w": "114.0563633"
+        }
+    },
+    {
+        "id": 781536969,
+        "type": "way",
+        "tags": {
+            "building:levels": "4",
+            "building:material": "concrete",
+            "building:part": "yes",
+            "height": "15"
+        },
+        "centroid": {
+            "lat": "22.5463088",
+            "lon": "114.0568641",
+            "type": "entrance"
+        },
+        "bounds": {
+            "e": "114.0568661",
+            "n": "22.5464919",
+            "s": "22.5461246",
+            "w": "114.0567455"
+        }
+    },
+    {
+        "id": 781536970,
+        "type": "way",
+        "tags": {
+            "building:levels": "3",
+            "building:part": "yes",
+            "height": "10"
+        },
+        "centroid": {
+            "lat": "22.5468405",
+            "lon": "114.0558645"
+        },
+        "bounds": {
+            "e": "114.0561246",
+            "n": "22.5469121",
+            "s": "22.5467690",
+            "w": "114.0556044"
+        }
+    },
+    {
+        "id": 781536971,
+        "type": "way",
+        "tags": {
+            "building:levels": "5",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "19"
+        },
+        "centroid": {
+            "lat": "22.5464292",
+            "lon": "114.0556154"
+        },
+        "bounds": {
+            "e": "114.0556248",
+            "n": "22.5467691",
+            "s": "22.5460892",
+            "w": "114.0556061"
+        }
+    },
+    {
+        "id": 781536976,
+        "type": "way",
+        "tags": {
+            "building:levels": "5",
+            "building:material": "glass",
+            "building:min_level": "1",
+            "building:part": "yes",
+            "height": "17",
+            "roof:material": "glass"
+        },
+        "centroid": {
+            "lat": "22.5462978",
+            "lon": "114.0539946"
+        },
+        "bounds": {
+            "e": "114.0542701",
+            "n": "22.5466516",
+            "s": "22.5459440",
+            "w": "114.0537190"
+        }
+    },
+    {
+        "id": 781536978,
+        "type": "way",
+        "tags": {
+            "building:levels": "5",
+            "building:material": "glass",
+            "building:min_level": "1",
+            "building:part": "yes",
+            "height": "17",
+            "roof:material": "glass"
+        },
+        "centroid": {
+            "lat": "22.5463097",
+            "lon": "114.0550237"
+        },
+        "bounds": {
+            "e": "114.0552992",
+            "n": "22.5466635",
+            "s": "22.5459558",
+            "w": "114.0547481"
+        }
+    },
+    {
+        "id": 781536983,
+        "type": "way",
+        "tags": {
+            "building:levels": "6",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "23"
+        },
+        "centroid": {
+            "lat": "22.5467636",
+            "lon": "114.0550154"
+        },
+        "bounds": {
+            "e": "114.0551388",
+            "n": "22.5468206",
+            "s": "22.5467067",
+            "w": "114.0548920"
+        }
+    },
+    {
+        "id": 781536984,
+        "type": "way",
+        "tags": {
+            "building:levels": "6",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "23"
+        },
+        "centroid": {
+            "lat": "22.5467383",
+            "lon": "114.0539872"
+        },
+        "bounds": {
+            "e": "114.0541107",
+            "n": "22.5467953",
+            "s": "22.5466814",
+            "w": "114.0538638"
+        }
+    },
+    {
+        "id": 781554188,
+        "type": "way",
+        "tags": {
+            "building:levels": "6",
+            "building:material": "concrete",
+            "building:part": "yes",
+            "height": "40",
+            "roof:colour": "grey",
+            "roof:direction": "89",
+            "roof:height": "6",
+            "roof:material": "concrete",
+            "roof:shape": "skillion"
+        },
+        "centroid": {
+            "lat": "22.5483544",
+            "lon": "114.0520132"
+        },
+        "bounds": {
+            "e": "114.0522122",
+            "n": "22.5488564",
+            "s": "22.5480117",
+            "w": "114.0517996"
+        }
+    },
+    {
+        "id": 781554189,
+        "type": "way",
+        "tags": {
+            "building:colour": "#343434",
+            "building:levels": "8",
+            "building:material": "concrete",
+            "building:part": "yes",
+            "height": "44"
+        },
+        "centroid": {
+            "lat": "22.5480990",
+            "lon": "114.0521782"
+        },
+        "bounds": {
+            "e": "114.0523578",
+            "n": "22.5481908",
+            "s": "22.5479525",
+            "w": "114.0519323"
+        }
+    },
+    {
+        "id": 781554190,
+        "type": "way",
+        "tags": {
+            "building:colour": "#343434",
+            "building:levels": "8",
+            "building:material": "concrete",
+            "building:part": "yes",
+            "height": "44"
+        },
+        "centroid": {
+            "lat": "22.5481720",
+            "lon": "114.0520299"
+        },
+        "bounds": {
+            "e": "114.0521860",
+            "n": "22.5483322",
+            "s": "22.5480117",
+            "w": "114.0518738"
+        }
+    },
+    {
+        "id": 781554191,
+        "type": "way",
+        "tags": {
+            "building:colour": "#343434",
+            "building:levels": "8",
+            "building:material": "concrete",
+            "building:part": "yes",
+            "height": "44"
+        },
+        "centroid": {
+            "lat": "22.5482681",
+            "lon": "114.0519171"
+        },
+        "bounds": {
+            "e": "114.0520283",
+            "n": "22.5484783",
+            "s": "22.5480578",
+            "w": "114.0518060"
+        }
+    },
+    {
+        "id": 781554192,
+        "type": "way",
+        "tags": {
+            "building:colour": "#343434",
+            "building:levels": "8",
+            "building:material": "concrete",
+            "building:part": "yes",
+            "height": "44"
+        },
+        "centroid": {
+            "lat": "22.5486200",
+            "lon": "114.0517672"
+        },
+        "bounds": {
+            "e": "114.0518060",
+            "n": "22.5491601",
+            "s": "22.5480798",
+            "w": "114.0517284"
+        }
+    },
+    {
+        "id": 781554197,
+        "type": "way",
+        "tags": {
+            "building:levels": "6",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "40",
+            "roof:colour": "grey",
+            "roof:direction": "89",
+            "roof:height": "6",
+            "roof:material": "concrete",
+            "roof:shape": "skillion"
+        },
+        "centroid": {
+            "lat": "22.5503007",
+            "lon": "114.0519471"
+        },
+        "bounds": {
+            "e": "114.0521823",
+            "n": "22.5506838",
+            "s": "22.5497792",
+            "w": "114.0517711"
+        }
+    },
+    {
+        "id": 10794736,
+        "type": "relation",
+        "tags": {
+            "addr:city": "深圳市",
+            "addr:district": "福田区",
+            "addr:housenumber": "70号",
+            "addr:postcode": "518034",
+            "addr:province": "广东省",
+            "addr:street": "景田路",
+            "building": "commercial",
+            "building:levels": "12",
+            "name": "图书馆大厦",
+            "name:zh": "图书馆大厦",
+            "type": "multipolygon"
+        },
+        "centroid": {
+            "lat": "22.5538198",
+            "lon": "114.0404405"
+        },
+        "bounds": {
+            "e": "114.0409298",
+            "n": "22.5540511",
+            "s": "22.5535883",
+            "w": "114.0399665"
+        }
+    },
+    {
+        "id": 10823226,
+        "type": "relation",
+        "tags": {
+            "building:colour": "#cebeae",
+            "building:levels": "0",
+            "building:material": "concrete",
+            "building:part": "yes",
+            "height": "36",
+            "roof:colour": "#cebeae",
+            "roof:direction": "270",
+            "roof:height": "36",
+            "roof:levels": "6",
+            "roof:material": "concrete",
+            "roof:shape": "skillion",
+            "type": "multipolygon"
+        },
+        "centroid": {
+            "lat": "22.5505307",
+            "lon": "114.0565965"
+        },
+        "bounds": {
+            "e": "114.0572488",
+            "n": "22.5508744",
+            "s": "22.5503397",
+            "w": "114.0561844"
+        }
+    },
+    {
+        "id": 10837976,
+        "type": "relation",
+        "tags": {
+            "building:levels": "5",
+            "building:material": "glass",
+            "building:part": "yes",
+            "height": "19",
+            "type": "multipolygon"
+        },
+        "centroid": {
+            "lat": "22.5457928",
+            "lon": "114.0528557",
+            "type": "entrance"
+        },
+        "bounds": {
+            "e": "114.0534405",
+            "n": "22.5468855",
+            "s": "22.5455733",
+            "w": "114.0521782"
+        }
+    },
+    {
+        "id": 10837977,
+        "type": "relation",
+        "tags": {
+            "building:levels": "5",
+            "building:material": "concrete",
+            "building:part": "yes",
+            "height": "19",
+            "type": "multipolygon"
+        },
+        "centroid": {
+            "lat": "22.5462376",
+            "lon": "114.0563823"
+        },
+        "bounds": {
+            "e": "114.0568700",
+            "n": "22.5467815",
+            "s": "22.5457898",
+            "w": "114.0556154"
+        }
+    },
+    {
+        "id": 10837978,
+        "type": "relation",
+        "tags": {
+            "building:levels": "1",
+            "building:material": "concrete",
+            "building:part": "yes",
+            "height": "3.4",
+            "type": "multipolygon"
+        },
+        "centroid": {
+            "lat": "22.5469651",
+            "lon": "114.0544799"
+        },
+        "bounds": {
+            "e": "114.0553444",
+            "n": "22.5469685",
+            "s": "22.5457946",
+            "w": "114.0536706"
+        }
+    }
+]
