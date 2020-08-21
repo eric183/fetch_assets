@@ -12,16 +12,6 @@ const url = "mongodb://localhost:27017/TEST";
 
 
 
-const config = {
-    dirPath: '/', // 存放到哪个目录下
-    bucket: 'wenming-oss',
-    region: 'oss-cn-shenzhen',// 我的是 hangzhou
-    accessKeyId: 'LTAI4GFtEGLpFqhPLeV2STCs',
-    accessKeySecret: 'vEDEFaoKkMJSnQKFMahJiWoXSnMmA3',
-    expAfter: 300000, // 签名失效时间，毫秒
-    maxSize: 1048576000 // 文件最大的 size
-}
-
 app.use(cors());
 
 
@@ -114,31 +104,6 @@ app.get('/sign', (req, res) => {
 
 })
 
-app.get('/osstoken', (req, res) => {
-    const host = `https://${config.bucket}.${config.region}.aliyuncs.com`
-    const expireTime = new Date().getTime() + config.expAfter
-    const expiration = new Date(expireTime).toISOString()
-    const policyString = JSON.stringify({
-        expiration,
-        conditions: [
-            ['content-length-range', 0, config.maxSize],
-            // ['starts-with', '$key', config.dirPath]
-        ]
-    })
-    const policy = Buffer.from(policyString).toString('base64')
-
-    const signature = crypto.createHmac('sha1', config.accessKeySecret).update(policy).digest("base64")
-
-    res.json({
-        signature,
-        policy,
-        host,
-        'OSSAccessKeyId': config.accessKeyId,
-        'expireTime': expireTime,
-        'success_action_status': 201,
-        // 'dirPath': config.dirPath,
-    })
-})
 app.listen('8080');
 
 // function oldIcon() {
